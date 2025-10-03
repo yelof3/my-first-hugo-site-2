@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on foley.works</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Blog on foley.works</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fuck Amazon</title>
+      <link>http://localhost:1313/posts/2025/fuckamazon/fuckamazon/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/fuckamazon/fuckamazon/</guid>
+      <description>&lt;p&gt;Fuck Amazon. Seriously.&lt;/p&gt;&#xA;&lt;p&gt;There are many, many reasons to hate Amazon, and Jeff Bezos. I tend to focus on worker and vendor conditions, and the fact that in his ideal world (which we’re quickly heading towards), he would barely be employing any humans at all.  But really, take your pick from a long list of very good reasons across any of his business properties. Don’t even get me started on the Washington Post or the new Alexa security issues–topics for future blog posts, perhaps.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Fediverse</title>
+      <link>http://localhost:1313/posts/2025/thefediverse/thefediverse/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/thefediverse/thefediverse/</guid>
+      <description>&lt;p&gt;The fediverse is a collection of community-owned, decentralized social networks that are constructed using the same ActivityPub protocol.&lt;/p&gt;&#xA;&lt;p&gt;It contains popular, ad free alternatives to large corporate social networks like Facebook and Twitter.&lt;/p&gt;&#xA;&lt;p&gt;It has the big boys scared, and for good reason.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/thefediverse/fediverse.jpg&#34; alt=&#34;A phone displaying Fediverse apps&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;From fediverse.to:&lt;/p&gt;&#xA;&lt;h1 id=&#34;each-fediverse-instance-is-managed-by-a-human-admin-you-can-find-fediverse-instances-dedicated-to-art-music-technology-culture-or-politics&#34;&gt;Each fediverse instance is managed by a human admin. You can find fediverse instances dedicated to art, music, technology, culture, or politics.&lt;/h1&gt;&#xA;&lt;p&gt;It has networks that are similar to fascist-owned and controlled corporations like Facebook/Meta, X, etc, but they’re much, much better. To start, it has no advertising or feed algorithms, and is filled with lots of kind, smart folks from all over the world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>20th Annual Thirsty Holiday Sale</title>
+      <link>http://localhost:1313/posts/2024/thirsty/thirsty/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/thirsty/thirsty/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024/thirsty/thirsty-holiday-sale.jpg&#34; alt=&#34;20th Annual Thirsty Holiday Sale flyer&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I’ve been lucky enough to DJ a lot of these very fun, unique annual holiday sales over the years. I’m pumped to be DJ’ing this year again, for the 20th Annual Thirsty Holiday Sale!&lt;/p&gt;&#xA;&lt;p&gt;Come grab some unique, artful gifts Saturday, December 14th! The sale will be held at 50 Sims.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Degoogling</title>
+      <link>http://localhost:1313/posts/2024/degoogling/degoogling/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/degoogling/degoogling/</guid>
+      <description>&lt;p&gt;I was invited to my first gmail address back in 2002 or 2003 (yes, you had to be invited), and since then, like lots of you, I gradually found myself using more and more Google products:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gmail&lt;/li&gt;&#xA;&lt;li&gt;Google Docs&lt;/li&gt;&#xA;&lt;li&gt;Google Drive&lt;/li&gt;&#xA;&lt;li&gt;Google Maps&lt;/li&gt;&#xA;&lt;li&gt;Google Keep&lt;/li&gt;&#xA;&lt;li&gt;Google Weather&lt;/li&gt;&#xA;&lt;li&gt;Google Search&lt;/li&gt;&#xA;&lt;li&gt;Google Voice&lt;/li&gt;&#xA;&lt;li&gt;Google Calendar&lt;/li&gt;&#xA;&lt;li&gt;Google Chrome&lt;/li&gt;&#xA;&lt;li&gt;Google Play&lt;/li&gt;&#xA;&lt;li&gt;Google My Business&lt;/li&gt;&#xA;&lt;li&gt;Google etc&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/degoogling/google-we-own-your-identity.jpg&#34; alt=&#34;Degoogling&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;That’s a whole lot of Google, and doesn’t even include the long list of Google products I use for work every day; Analytics, Google Tag Manager, Cloud, and so on.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Infinite Composition by Leo Villareal</title>
+      <link>http://localhost:1313/posts/2024/leovillareal/leovillareal/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/leovillareal/leovillareal/</guid>
+      <description>&lt;p&gt;I finally got a chance to head over to Brown University’s Lindemann Performing Arts Center to see ‘Infinite Composition‘, a white LED installation that has been in the building lobby since Fall 2023.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024/leovillareal/infinite-composition.jpg&#34; alt=&#34;Leo Villareal’s Infinite Composition&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I became a fan of Villareal’s work via an accompanying soundtrack that was used in his installation in the National Gallery of Art in Washington DC. This sountrack mix was created by James Healy, who along with DJ Olive created one of my favorite record labels of all time, The Agriculture. I originally found The Agriculture and DJ Olive in my freshman year of college as a burgeoning avant-garde/new music fan; I can’t remember who the exact collaborators were at this moment, but he was a turntablist who definitely wasn’t afraid of dipping his toes in more adventurous musics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BSR Live</title>
+      <link>http://localhost:1313/posts/2024/bsrlive/bsrlive/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/bsrlive/bsrlive/</guid>
+      <description>&lt;p&gt;With bittersweet emotions, after 12 years of DJing/programming, I recently left Brown Student and Community Radio, aka BSR Live.&lt;/p&gt;&#xA;&lt;p&gt;The BSR that I joined in 2010 was a freeform radio force to be reckoned with. We had a full 7-day schedule with a truly diverse collection of shows: K-pop, film music, experimental, an Atheism show, psychedelic folk, new classical, live electronic mix shows, a show about local Providence music, punk..the list goes on.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Three Nights of Lights</title>
+      <link>http://localhost:1313/posts/2023/threenightsoflights/threenightsoflights/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/threenightsoflights/threenightsoflights/</guid>
+      <description>&lt;p&gt;The big LED matrix I made for Wooly Fair will be made an appearance in downtown Providence this weekend, as part of the Three Nights of Lights Festival.&lt;/p&gt;&#xA;&lt;p&gt;We were at 35 Weybosset Street on the evening of 12/1 and on Matthewson Street on the evening of 12/2, as part of the Avenue Concept roster of events.&lt;/p&gt;&#xA;&lt;p&gt;Lots of amazing art, performance, and smiles on both nights. And of course, plenty of lights!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Genuary 2023</title>
+      <link>http://localhost:1313/posts/2023/genuary-2023/genuary2023/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/genuary-2023/genuary2023/</guid>
+      <description>&lt;p&gt;After some indirect encouragement from some folks on my Mastodon instance, I’ve decided to try my hand at Genuary! Each day of the month has a theme, which I’ve notated next to each header.&lt;/p&gt;&#xA;&lt;p&gt;Compared to many, my love affair with code is rather young, so don’t expect to be blown away by any of these outputs. But rest assured knowing I had lots of fun creating them (and that I won’t be finishing every one)!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

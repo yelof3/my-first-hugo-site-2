@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: #FF4D4D;
+            --font-size: 1.1rem;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>Pawtagotchi</title>
+    <meta name="description" content=" Raspberry Pi Zero 2W Waveshare 2.13inch e-Paper Hat E-Ink Display Pi Sugar 3 battery I found myself with an extra Pi Zero 2W, so why not build a cute lil’ wifi …">
+    <meta name="keywords" content=''>
+
+    <meta property="og:url" content="http://localhost:1313/electronics/pawtagotchi-copy/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Pawtagotchi">
+    <meta property="og:description" content=" Raspberry Pi Zero 2W Waveshare 2.13inch e-Paper Hat E-Ink Display Pi Sugar 3 battery I found myself with an extra Pi Zero 2W, so why not build a cute lil’ wifi …">
+    <meta property="og:image" content="http://localhost:1313/path/to/image.png">
+    <meta property="og:image:secure_url" content="http://localhost:1313/path/to/image.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Pawtagotchi">
+    <meta name="twitter:description" content=" Raspberry Pi Zero 2W Waveshare 2.13inch e-Paper Hat E-Ink Display Pi Sugar 3 battery I found myself with an extra Pi Zero 2W, so why not build a cute lil’ wifi …">
+    <meta property="twitter:domain" content="http://localhost:1313/electronics/pawtagotchi-copy/">
+    <meta property="twitter:url" content="http://localhost:1313/electronics/pawtagotchi-copy/">
+    <meta name="twitter:image" content="http://localhost:1313/path/to/image.png">
+
+    
+    <link rel="canonical" href="http://localhost:1313/electronics/pawtagotchi-copy/">
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print">
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.min.css">
+
+    
+    <link id="dark-theme" rel="stylesheet" href="/css/dark.min.css">
+
+    
+    <script src="/js/bundle.min.70293498aa96b2dbb767ec11a622eb2266d8fc37a0fff88233a82952e3c72b15.js" integrity="sha256-cCk0mKqWstu3Z&#43;wRpiLrImbY/Deg//iCM6gpUuPHKxU="></script>
+
+    
+    
+</head>
+
+// css
+<link rel="stylesheet" href="http://localhost:1313/css/custom.css">
+<body>
+        <script>
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="http://localhost:1313/">
+                <img src='/images/orangephoto.jpg' alt="avatar">
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="http://localhost:1313/">foley.works</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/" aria-label="" > Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/about" aria-label="" > About </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/music/" aria-label="" > Music </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/electronics/" aria-label="" > Electronics </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/posts/" aria-label="" > Posts </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://github.com/yelof3" aria-label="github" >  </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/tags/" aria-label="" > Tags </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+                <a aria-hidden="true" role="switch">
+                    <span class="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+                <a aria-checked="false" aria-labelledby="hamburger-menu-toggle" id="hamburger-menu-toggle-target" role="switch">
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/" > Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/about" > About </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/music/" > Music </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/electronics/" > Electronics </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/posts/" > Posts </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://github.com/yelof3" >  </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/tags/" > Tags </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+                    <a role="switch">
+                        <span class="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    <div class="post container">
+
+    <div class="post-header-section">
+        <h1>Pawtagotchi</h1>
+    </div>
+
+    <div class="post-content">
+        <ul>
+<li>Raspberry Pi Zero 2W</li>
+<li>Waveshare 2.13inch e-Paper Hat E-Ink Display</li>
+<li>Pi Sugar 3 battery</li>
+</ul>
+<p>I found myself with an extra Pi Zero 2W, so why not build a cute lil’ wifi network handshake tool called the Pwnagotchi. All in all, apart from time taken to order and receive parts in the mail, this was a pretty quick project to get up and running.</p>
+<p>From that site:</p>
+<h1 id="pwnagotchi-is-an-a2c-based-ai-powered-by-bettercap-and-running-on-a-raspberry-pi-zero-w-that-learns-from-its-surrounding-wifi-environment-in-order-to-maximize-the-crackable-wpa-key-material-it-captures-either-through-passive-sniffing-or-by-performing-deauthentication-and-association-attacks-this-material-is-collected-on-disk-as-pcap-files-containing-any-form-of-handshake-supported-by-hashcat-including-full-and-half-wpa-handshakes-as-well-as-pmkids">Pwnagotchi is an A2C-based “AI” powered by bettercap and running on a Raspberry Pi Zero W that learns from its surrounding WiFi environment in order to maximize the crackable WPA key material it captures (either through passive sniffing or by performing deauthentication and association attacks). This material is collected on disk as PCAP files containing any form of handshake supported by hashcat, including full and half WPA handshakes as well as PMKIDs.</h1>
+<p>I just completed this project! I found this video guide by Talking Sasquatch to be quite helpful. This Reddit thread also helped me realize that the Waveshare I received with a V4 decal on it was in fact a V3.</p>
+<p>After a quick adjustment on the config file, I was off and running, capturing handshakes throughout the hood. I renamed mine Pawtagotchi, appropriately.</p>
+<h1 id="update">Update</h1>
+<p>Pawtagotchi has surpassed 600 pwns. Another win for urban living. Here you can see the case I printed for my pwnagotchi, made with plant-based eco resin from Anycubic.</p>
+<p><img src="/electronics/pawtagotchi-copy/pawtagotchi.jpg" alt="pawtagotchi"></p>
+
+    </div>
+    
+    
+</div>
+
+
+
+        </main><footer class="footer">
+    
+    
+
+    
+
+    
+
+    
+
+    <span>
+        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/gokarna-theme/gokarna-hugo">Gokarna</a>
+    </span>
+</footer>
+</body>
+</html>
+

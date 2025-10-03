@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Providence on foley.works</title>
+    <link>http://localhost:1313/tags/providence/</link>
+    <description>Recent content in Providence on foley.works</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/providence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Nights of Lights</title>
+      <link>http://localhost:1313/posts/2023/threenightsoflights/threenightsoflights/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023/threenightsoflights/threenightsoflights/</guid>
+      <description>&lt;p&gt;The big LED matrix I made for Wooly Fair will be made an appearance in downtown Providence this weekend, as part of the Three Nights of Lights Festival.&lt;/p&gt;&#xA;&lt;p&gt;We were at 35 Weybosset Street on the evening of 12/1 and on Matthewson Street on the evening of 12/2, as part of the Avenue Concept roster of events.&lt;/p&gt;&#xA;&lt;p&gt;Lots of amazing art, performance, and smiles on both nights. And of course, plenty of lights!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

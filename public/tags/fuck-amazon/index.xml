@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuck Amazon on foley.works</title>
+    <link>http://localhost:1313/tags/fuck-amazon/</link>
+    <description>Recent content in Fuck Amazon on foley.works</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fuck-amazon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fuck Amazon</title>
+      <link>http://localhost:1313/posts/2025/fuckamazon/fuckamazon/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/fuckamazon/fuckamazon/</guid>
+      <description>&lt;p&gt;Fuck Amazon. Seriously.&lt;/p&gt;&#xA;&lt;p&gt;There are many, many reasons to hate Amazon, and Jeff Bezos. I tend to focus on worker and vendor conditions, and the fact that in his ideal world (which we’re quickly heading towards), he would barely be employing any humans at all.  But really, take your pick from a long list of very good reasons across any of his business properties. Don’t even get me started on the Washington Post or the new Alexa security issues–topics for future blog posts, perhaps.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

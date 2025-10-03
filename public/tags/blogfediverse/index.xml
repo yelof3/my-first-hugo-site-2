@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog,fediverse on foley.works</title>
+    <link>http://localhost:1313/tags/blogfediverse/</link>
+    <description>Recent content in Blog,fediverse on foley.works</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blogfediverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Fediverse</title>
+      <link>http://localhost:1313/posts/2025/thefediverse/thefediverse/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/thefediverse/thefediverse/</guid>
+      <description>&lt;p&gt;The fediverse is a collection of community-owned, decentralized social networks that are constructed using the same ActivityPub protocol.&lt;/p&gt;&#xA;&lt;p&gt;It contains popular, ad free alternatives to large corporate social networks like Facebook and Twitter.&lt;/p&gt;&#xA;&lt;p&gt;It has the big boys scared, and for good reason.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/thefediverse/fediverse.jpg&#34; alt=&#34;A phone displaying Fediverse apps&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;From fediverse.to:&lt;/p&gt;&#xA;&lt;h1 id=&#34;each-fediverse-instance-is-managed-by-a-human-admin-you-can-find-fediverse-instances-dedicated-to-art-music-technology-culture-or-politics&#34;&gt;Each fediverse instance is managed by a human admin. You can find fediverse instances dedicated to art, music, technology, culture, or politics.&lt;/h1&gt;&#xA;&lt;p&gt;It has networks that are similar to fascist-owned and controlled corporations like Facebook/Meta, X, etc, but they’re much, much better. To start, it has no advertising or feed algorithms, and is filled with lots of kind, smart folks from all over the world.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

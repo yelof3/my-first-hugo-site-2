@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronics on foley.works</title>
+    <link>http://localhost:1313/tags/electronics/</link>
+    <description>Recent content in Electronics on foley.works</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arduino RGB LED Shield</title>
+      <link>http://localhost:1313/electronics/arduino-rgb-shield/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/electronics/arduino-rgb-shield/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Arduino Uno&lt;/li&gt;&#xA;&lt;li&gt;12v RGB LED strip (SMD5050)&lt;/li&gt;&#xA;&lt;li&gt;3 x 10k Ohm Resistors&lt;/li&gt;&#xA;&lt;li&gt;3 x Logic Level N-channel MOSFETs&lt;/li&gt;&#xA;&lt;li&gt;12v power supply&lt;/li&gt;&#xA;&lt;li&gt;solder and wires&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/electronics/arduino-rgb-shield/arduinorgbledshield.jpg&#34; alt=&#34;rgb-led-shield&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This was my first significant pandemic, Arduino, and LED build.&lt;/p&gt;&#xA;&lt;p&gt;I built two units; one for my daughter’s room, and one for the living room. We quickly became disenchanted with them after I discovered neopixels, but it was a lot of fun to build, and looks pretty cool, too.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bicycle Frame Display</title>
+      <link>http://localhost:1313/electronics/bicycle-frame-display/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/electronics/bicycle-frame-display/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;2 sided display&lt;/li&gt;&#xA;&lt;li&gt;526 total LEDs (WS2802B)&lt;/li&gt;&#xA;&lt;li&gt;lots of solder and wire&lt;/li&gt;&#xA;&lt;li&gt;Arduino Nano&lt;/li&gt;&#xA;&lt;li&gt;Voltage regulator&lt;/li&gt;&#xA;&lt;li&gt;Ring&lt;/li&gt;&#xA;&lt;li&gt;7.4v RC battery pack&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I started riding with the Providence Bike Jam crew at the beginning of 2021, and I knew from my first ride that these were my folks. Lights, music, smiles, and bicycle advocacy; what’s not to love.&lt;/p&gt;&#xA;&lt;p&gt;Given my recent excursion into the world of microprocessors and LEDs, I knew I had to make something for my bike. So, I made a rough trace of my frame space, cut some wood, plastered each side with LEDs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LED Matrix</title>
+      <link>http://localhost:1313/electronics/led-matrix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/electronics/led-matrix/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;300 LEDs, 10x30&lt;/li&gt;&#xA;&lt;li&gt;WS2802B&lt;/li&gt;&#xA;&lt;li&gt;Arduino Uno&lt;/li&gt;&#xA;&lt;li&gt;Lots of wire and solder&lt;/li&gt;&#xA;&lt;li&gt;Wood, glue, translucent paper&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;When I got laid off at the beginning of the pandemic in 2020, I had some free time, and instead of learning to bake sourdough bread, I learned how to control LEDs.&lt;/p&gt;&#xA;&lt;p&gt;I made several LED matrices, with this one being the largest so far. I’m currently in the logistics stage of a 1400 LED matrix, so check back in a bit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LED Table Lamp</title>
+      <link>http://localhost:1313/electronics/led-table-lamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/electronics/led-table-lamp/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;NodeMCU development board&lt;/li&gt;&#xA;&lt;li&gt;WS2812B LED strip (77 LEDs)&lt;/li&gt;&#xA;&lt;li&gt;Box store table lamp&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/electronics/led-table-lamp/LEDtablelamp.jpg&#34; alt=&#34;LED-table-lamp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This was one of my quickest LED projects yet. One day I had a desire to deconstruct a light to retrofit with LEDs. After perusing the local Craigslist board, I wasn’t able to find any decent light hosts, so I just went down to the box store and grabbed a relatively cheap table lamp to improve.&lt;/p&gt;&#xA;&lt;p&gt;In it’s second version, I incorporated the open source WLED program to control the light display with my phone.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Office LED Matrix</title>
+      <link>http://localhost:1313/electronics/office-led-matrix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/electronics/office-led-matrix/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;1,035 LEDs&lt;/li&gt;&#xA;&lt;li&gt;WS2812B RGB LED&lt;/li&gt;&#xA;&lt;li&gt;69 x 15&lt;/li&gt;&#xA;&lt;li&gt;D1 Mini ESP32&lt;/li&gt;&#xA;&lt;li&gt;INMP441 I2S Microphone&lt;/li&gt;&#xA;&lt;li&gt;Mean Well RSP-200-5 40a Power Supply&lt;/li&gt;&#xA;&lt;li&gt;Wire and solder&lt;/li&gt;&#xA;&lt;li&gt;1/8″ Frosted plexiglass diffusion panel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/electronics/office-led-matrix/officeLEDmatrix.jpg&#34; alt=&#34;office-LED-matrix&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I laid out most of the LEDs on this board during the beginning of the COVID-19 pandemic, probably sometime in late 2020. Due to placing my attention on other projects, this took a bit of time to finish, but I’m happy to say it’s finally finished in January 2025!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pixel Lamb</title>
+      <link>http://localhost:1313/electronics/pixel-lamb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/electronics/pixel-lamb/</guid>
+      <description>&lt;p&gt;Pixel Lamb is a sound-reactive LED matrix that was made for Wooly Fair 2023 at The Steel Yard. After some repairs, it will be present for The Lint Ball!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/electronics/pixel-lamb/pixel-lamb-red-noses.jpg&#34; alt=&#34;Pixel-lamb&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Waterproof LED display&lt;/li&gt;&#xA;&lt;li&gt;Lots of silicone&lt;/li&gt;&#xA;&lt;li&gt;4’W x 4’H alupanel&lt;/li&gt;&#xA;&lt;li&gt;1224 total LEDs&lt;/li&gt;&#xA;&lt;li&gt;Pixelblaze V3&lt;/li&gt;&#xA;&lt;li&gt;Pixelblaze Pro Output Expander&lt;/li&gt;&#xA;&lt;li&gt;Pixelblaze Sensor Expansion Board&lt;/li&gt;&#xA;&lt;li&gt;Mean Well RSP-320-5 60a Power Supply&lt;/li&gt;&#xA;&lt;li&gt;686 addressable LEDs for the lamb, identified on a 3rd ‘Z’ axis&lt;/li&gt;&#xA;&lt;li&gt;3,672 total JSON values&lt;/li&gt;&#xA;&lt;li&gt;1/8″ Frosted plexiglass diffusion panel&lt;/li&gt;&#xA;&lt;li&gt;2 piece wood frame with 3/8″ standoff for panel&lt;/li&gt;&#xA;&lt;li&gt;1/8″ aircraft cable and fasteners for suspension&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;When I got laid off at the beginning of the pandemic in 2020, I had some free time, and instead of learning to bake sourdough bread, I learned how to control LEDs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

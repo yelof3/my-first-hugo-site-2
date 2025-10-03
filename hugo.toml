@@ -1,0 +1,129 @@
+baseURL = "https://foley.works/"
+defaultContentLanguage = "en"
+# Automatically generate robots.txt
+enableRobotsTXT = true
+languageCode = "en"
+theme = "gokarna"
+title = "foley.works"
+
+[menu]
+  [[menu.main]]
+    # Display name
+    name = "Home"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 1
+
+  [[menu.main]]
+    # Display name
+    name = "About"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/about"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 2
+
+  [[menu.main]]
+    # Display name
+    name = "Music"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/music/"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 3  
+    
+  [[menu.main]]
+    # Display name
+    name = "Electronics"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/electronics/"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 4
+    
+  [[menu.main]]
+    # Display name
+    name = "Posts"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/posts/"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 5
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 7
+    
+  [[menu.main]]
+    # Unique identifiers are required for menu entries without a name property,
+    # or for menu entries which re-use a name
+    identifier = "github"
+
+    # Absolute URL to external resource
+    url = "https://github.com/yelof3"
+    weight = 7
+    
+    # Surround the menu entry (or name) with HTML content, such as Feather
+    # icons: https://feathericons.com
+    #pre = "<span data-feather='github'></span>"
+    #post = ""
+
+    
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true
+
+[params]
+custom_css = ["css/custom.css"]
+
+# Choose the color shown when hyperlinks are hovered over
+accentColor = "#6666ff"
+
+# Resource URL for the site avatar (home page and header)
+avatarURL = "/images/orangephoto.jpg"
+
+# Describe the avatar for screen readers
+avatarAltText = "avatar"
+
+# Set the avatar's size: size-xs, size-s, size-m, size-l & size-xl
+avatarSize = "size-m"
+
+# Inject arbitrary HTML via the <head> tag
+# Best used for importing custom JavaScript, CSS, or analytics
+customHeadHTML = ""
+
+# Configure how post dates are displayed
+dateFormat = "January 2, 2006"
+  
+# Home page meta description
+description = "tune purveyor, truth sayer, woo slayer, code layer "
+
+socialIcons = [
+  {name = "mastodon", url = "https://hachyderm.io/@yelof"},
+  {name = "rss", url = "http://foley.works/feed/"},
+  {name = "mixcloud", url = "https://www.mixcloud.com/misterboots/"},
+  {name = "github", url = "https://github.com/yelof3"},
+  {name = "soundcloud", url = "https://soundcloud.com/thefieldhouse"},
+  {name = "codepen (1)", url = "https://codepen.io/yelof"},
+  {name = "discogs", url = "https://www.discogs.com/user/JohnFoley"},
+  {name = "wire", url = "https://account.wire.com/user-profile/?id=43f68a94-b1aa-4c0f-a5bb-3aefa8ace6fa"},
+  {name = "pixelfed", url = "https://pxlmo.com/i/web/profile/639315617087045662"},
+  {name = "email", url = "mailto:john@foley.works"}
+ ]
+
+theme = ["hugo-shortcode-roneo-collection", "gokarna"]

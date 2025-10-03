@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: #6666ff;
+            --font-size: 1.1rem;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>Pi-Hole</title>
+    <meta name="description" content=" Raspberry Pi Zero 2W MicroSD Card Raspberry Pi Zero Case Raspberry Pi OS Pi-hole software This Pi-Hole project can be done in as little as 15 minutes, or if …">
+    <meta name="keywords" content=''>
+
+    <meta property="og:url" content="http://localhost:1313/electronics/pi-hole/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Pi-Hole">
+    <meta property="og:description" content=" Raspberry Pi Zero 2W MicroSD Card Raspberry Pi Zero Case Raspberry Pi OS Pi-hole software This Pi-Hole project can be done in as little as 15 minutes, or if …">
+    <meta property="og:image" content="http://localhost:1313/path/to/image.png">
+    <meta property="og:image:secure_url" content="http://localhost:1313/path/to/image.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Pi-Hole">
+    <meta name="twitter:description" content=" Raspberry Pi Zero 2W MicroSD Card Raspberry Pi Zero Case Raspberry Pi OS Pi-hole software This Pi-Hole project can be done in as little as 15 minutes, or if …">
+    <meta property="twitter:domain" content="http://localhost:1313/electronics/pi-hole/">
+    <meta property="twitter:url" content="http://localhost:1313/electronics/pi-hole/">
+    <meta name="twitter:image" content="http://localhost:1313/path/to/image.png">
+
+    
+    <link rel="canonical" href="http://localhost:1313/electronics/pi-hole/">
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print">
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.min.css">
+
+    
+    <link id="dark-theme" rel="stylesheet" href="/css/dark.min.css">
+
+    
+    <script src="/js/bundle.min.70293498aa96b2dbb767ec11a622eb2266d8fc37a0fff88233a82952e3c72b15.js" integrity="sha256-cCk0mKqWstu3Z&#43;wRpiLrImbY/Deg//iCM6gpUuPHKxU="></script>
+
+    
+    
+</head>
+
+// css
+<link rel="stylesheet" href="http://localhost:1313/css/custom.css">
+<body>
+        <script>
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="http://localhost:1313/">
+                <img src='/images/orangephoto.jpg' alt="avatar">
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="http://localhost:1313/">foley.works</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/" aria-label="" > Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/about" aria-label="" > About </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/music/" aria-label="" > Music </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/electronics/" aria-label="" > Electronics </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/posts/" aria-label="" > Posts </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://github.com/yelof3" aria-label="github" >  </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/tags/" aria-label="" > Tags </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+                <a aria-hidden="true" role="switch">
+                    <span class="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+                <a aria-checked="false" aria-labelledby="hamburger-menu-toggle" id="hamburger-menu-toggle-target" role="switch">
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/" > Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/about" > About </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/music/" > Music </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/electronics/" > Electronics </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/posts/" > Posts </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://github.com/yelof3" >  </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/tags/" > Tags </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+                    <a role="switch">
+                        <span class="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    <div class="post container">
+
+    <div class="post-header-section">
+        <h1>Pi-Hole</h1>
+    </div>
+
+    <div class="post-content">
+        <ul>
+<li>Raspberry Pi Zero 2W</li>
+<li>MicroSD Card</li>
+<li>Raspberry Pi Zero Case</li>
+<li>Raspberry Pi OS</li>
+<li>Pi-hole software</li>
+</ul>
+<p>This Pi-Hole project can be done in as little as 15 minutes, or if you have an old Netgear router like I had, maybe a few days. It has no fancy appearance, but has a huge impact in the home. Not only will you rid yourself of most advertising on your network devices, but you’ll also be able to take a closer look at the details of your network traffic, and speed up your overall network as well!</p>
+<p><img src="/electronics/pi-hole/pi-hole.jpg" alt="pi-hole"></p>
+<p>The steps are fairly straight forward.</p>
+<ul>
+<li>Install Raspberry Pi OS (or your OS of choice) on the Raspberry Pi. I used the 32-bit version.</li>
+<li>SSH into the Pi, run update and upgrade</li>
+<li>Install Pi-Hole with the following command:</li>
+<li>curl -sSL <a href="https://install.pi-hole.net">https://install.pi-hole.net</a> | bash</li>
+<li>From there, answer a few easy questions, and you’ll then have Pi-Hole installed on your Pi. Visit the Pi-Hole website for official docs, links, etc.</li>
+<li>Decide the best method for incorporating your Pi-Hole device into your network as the DNS server. This doc from Pi-Hole covers the options nicely.</li>
+</ul>
+<h1 id="pi-hole-router-dns-issues">Pi-Hole Router DNS Issues</h1>
+<p>The router that I had been using for the last 12 years or so is the Netgear 450N, CG3000Dv2. Old, but it’s done the trick…up until this project, when I needed to be able to control DNS settings. From what I’ve read on the internet, the ISP where I purchased the router from, Cox, likely put firmware on it that prohibits the adjustment of DNS settings.</p>
+<p>Off I went to Craigslist/Facebook Marketplace, and found myself a nice little Allesis SBG10 Surfboard router/modem. Changing settings on the Allesis has been a breeze, and since implementing that into my network and placing the correct DNS settings on the admin page I’ve had great luck with the Pi-Hole!</p>
+<p><img src="/electronics/pi-hole/pi-hole%20admin.png" alt="pi-hole"></p>
+<p>I must say, there was a feeling of power after watching a whole movie free of ads on Tubi, a movie platform that is laden with ads.</p>
+<h1 id="isp-rep-beef">ISP Rep Beef</h1>
+<p>One fun part of this project was after I gathered that I would need to call Cox to have them assign my new router/modem to my account.</p>
+<p>I researched their online docs regarding modem compatibility, but upon calling them the rep said that my new modem was not compatible. I told them that it was listed on their official compatibility list, but he assured me that it wasn’t compatible, and said that since I had the list in front of me, I should do the research on which modems would work. Ha!</p>
+<p>I ended up getting off the call and registering the device on their website in 5 minutes.</p>
+
+    </div>
+    
+    
+</div>
+
+
+
+        </main><footer class="footer">
+    
+    
+
+    
+
+    
+
+    
+     <span>
+        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/gokarna-theme/gokarna-hugo">Gokarna</a>
+    </span>
+</footer>
+</body>
+</html>
+

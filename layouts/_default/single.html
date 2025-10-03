@@ -1,0 +1,40 @@
+{{ define "main" }}
+    {{ if eq .Type "post" }}
+        {{- partial "post.html" . -}}
+        {{- partial "toc.html" . -}}
+    {{ end }}
+
+    {{ if eq .Type "page" }}
+        {{- partial "page.html" . -}}
+        {{- partial "toc.html" . -}}
+    {{ end }}
+{{/*  Load plyr.io  */}}
+
+{{ if or ( .HasShortcode "audio" ) ( .HasShortcode "video" )  ( .HasShortcode "archive-audio" ) }}
+
+    <link rel="stylesheet" href="/css/plyr.scss">
+
+    <script src="/js/plyr.polyfilled.js" crossorigin="anonymous"></script>
+    <script>
+      (function() {
+        const players = Array.from(document.querySelectorAll('.player')).map(
+            p => new Plyr(p, {
+                controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'download', 'fullscreen'],
+                {{/*  autoplay: true,  */}}
+                {{/*  settings: ['speed']  */}}
+            })
+        );
+        {{/*  Stop other players when starting  */}}
+        players.forEach(function(p){
+            p.on('play', event => {
+                const instance = event.detail.plyr;
+                console.log('Stop others players');
+                players.forEach(function(p){ if(p != instance) p.stop()});
+            })
+        });
+    })();
+    </script>
+
+{{ end }}
+
+{{ end }}
