@@ -7,7 +7,7 @@ tags: ["electronics","LED"]
 ---
 
 - Arduino Uno
-- 12v RGB LED strip (SMD5050)
+- 12v RGB LED strip (SMD5050) greg
 - 3 x 10k Ohm Resistors
 - 3 x Logic Level N-channel MOSFETs
 - 12v power supply
