@@ -4,14 +4,14 @@ image: "/path/to/image.png"
 type: "page"
 ---
 
-# Mixes
+## Mixes
 [Wondermachine Wondercast 006](https://www.wondermachine.net/wondercast/wondercast006-wanderlust-by-john-foley/ "Wondermachine Wondercast 006")
 
 [Providance Guest Mix for The Providance Radio show on Providence Community Radio](https://www.mixcloud.com/Quinntronix/providance-guest-mix-dj-john-foley/wondercast006-wanderlust-by-john-foley/ "Providance Guest Mix for Radio")
 
 [ElevenEleven :: 33 Misterboots](https://www.mixcloud.com/misterboots/eleveneleven-33-misterboots/wondercast006-wanderlust-by-john-foley/ "ElevenEleven :: 33 Misterboots")
 
-# Remixes
+## Remixes
 [Swollen Eyes (John Foley Remix) on Waking by Revy](https://wondermachine.bandcamp.com/track/swollen-eyes-john-foley-remix "Swollen Eyes (John Foley Remix) on Waking by Revy")
 
 [Donkey Jockey, Smackin' Those Itchies on [blpsq039]](https://bleepsequence.bandcamp.com/track/donkey-jockey-smackin-those-itchies "Donkey Jockey, Smackin' Those Itchies on [blpsq039]")
