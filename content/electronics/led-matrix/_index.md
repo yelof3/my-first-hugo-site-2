@@ -2,7 +2,6 @@
 title: "LED Matrix"
 image: "/path/to/image.png"
 type: "page"
-tags: ["electronics","LED"]
 ---
 
 - 300 LEDs, 10x30

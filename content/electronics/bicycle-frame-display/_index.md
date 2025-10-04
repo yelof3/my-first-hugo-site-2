@@ -2,7 +2,6 @@
 title: "Bicycle Frame Display"
 image: "/path/to/image.png"
 type: "page"
-tags: ["electronics","LED"]
 ---
 
 - 2 sided display

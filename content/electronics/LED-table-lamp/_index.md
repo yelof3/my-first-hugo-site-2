@@ -2,7 +2,6 @@
 title: "LED Table Lamp"
 image: "/path/to/image.png"
 type: "page"
-tags: ["electronics","LED"]
 ---
 
 - NodeMCU development board

@@ -2,7 +2,6 @@
 title: "Arduino RGB LED Shield"
 image: "/path/to/image.png"
 type: "page"
-tags: ["electronics","LED"]
 
 ---
 

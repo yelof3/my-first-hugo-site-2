@@ -2,7 +2,6 @@
 title: "Office LED Matrix"
 image: "/path/to/image.png"
 type: "page"
-tags: ["electronics","LED"]
 ---
 
 - 1,035 LEDs
