@@ -115,15 +115,13 @@ description = "tune purveyor, truth sayer, woo slayer, code layer "
 
 socialIcons = [
   {name = "mastodon", url = "https://hachyderm.io/@yelof"},
-  {name = "rss", url = "http://foley.works/feed/"},
   {name = "mixcloud", url = "https://www.mixcloud.com/misterboots/"},
   {name = "github", url = "https://github.com/yelof3"},
   {name = "soundcloud", url = "https://soundcloud.com/thefieldhouse"},
   {name = "codepen (1)", url = "https://codepen.io/yelof"},
   {name = "discogs", url = "https://www.discogs.com/user/JohnFoley"},
   {name = "wire", url = "https://account.wire.com/user-profile/?id=43f68a94-b1aa-4c0f-a5bb-3aefa8ace6fa"},
-  {name = "pixelfed", url = "https://pxlmo.com/i/web/profile/639315617087045662"},
-  {name = "email", url = "mailto:john@foley.works"}
+  {name = "pixelfed", url = "https://pxlmo.com/i/web/profile/639315617087045662"}
  ]
 
 theme = ["hugo-shortcode-roneo-collection", "gokarna"]

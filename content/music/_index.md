@@ -21,10 +21,6 @@ type: "page"
 
 
 
-https://soundcloud.com/shibby-shitegeist/shibby-shitegeist-jack-all-1
-
-https://www.mixcloud.com/misterboots/very-early-morning-set-for-the-g-spot-camp-at-burning-man/
-
 
 
 
