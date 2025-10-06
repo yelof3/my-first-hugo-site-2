@@ -74,11 +74,11 @@
   </url><url>
     <loc>http://localhost:1313/office-led-matrix/</loc>
   </url><url>
-    <loc>http://localhost:1313/pwnagotchi/</loc>
-  </url><url>
     <loc>http://localhost:1313/pi-hole/</loc>
   </url><url>
     <loc>http://localhost:1313/pixel-lamb/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pwnagotchi/</loc>
   </url><url>
     <loc>http://localhost:1313/radio/</loc>
   </url><url>
