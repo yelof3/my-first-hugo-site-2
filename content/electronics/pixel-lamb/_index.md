@@ -2,6 +2,7 @@
 title: "Pixel Lamb"
 image: "/path/to/image.png"
 type: "page"
+url: /pixel-lamb
 ---
 
 Pixel Lamb is a sound-reactive LED matrix that was made for Wooly Fair 2023 at The Steel Yard. After some repairs, it will be present for The Lint Ball!

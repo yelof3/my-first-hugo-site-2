@@ -2,6 +2,7 @@
 title: "Bicycle Frame Display"
 image: "/path/to/image.png"
 type: "page"
+url: /bicycle-frame-display 
 ---
 
 - 2 sided display

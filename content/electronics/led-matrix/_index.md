@@ -2,6 +2,7 @@
 title: "LED Matrix"
 image: "/path/to/image.png"
 type: "page"
+url: /electronics-led-matrix
 ---
 
 - 300 LEDs, 10x30

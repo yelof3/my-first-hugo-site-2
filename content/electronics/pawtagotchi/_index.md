@@ -2,6 +2,7 @@
 title: "Pawtagotchi"
 image: "/path/to/image.png"
 type: "page"
+url: /pwnagotchi
 ---
 
 - Raspberry Pi Zero 2W

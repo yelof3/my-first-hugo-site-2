@@ -5,6 +5,7 @@ description: "With bittersweet emotions, after 12 years of DJing/programming, I 
 image: "/path/to/image.png"
 type: "post"
 tags: ["blog"]
+url: /bsr-live
 ---
 
 With bittersweet emotions, after 12 years of DJing/programming, I recently left Brown Student and Community Radio, aka BSR Live.

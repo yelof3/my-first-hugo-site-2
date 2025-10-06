@@ -2,7 +2,7 @@
 title: "Arduino RGB LED Shield"
 image: "/path/to/image.png"
 type: "page"
-
+url: /arduino-rgb-shield
 ---
 
 - Arduino Uno
