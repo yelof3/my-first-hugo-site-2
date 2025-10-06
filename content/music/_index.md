@@ -5,7 +5,7 @@ type: "page"
 ---
 
 ## Mixes
-[Wondermachine Wondercast 006](https://www.wondermachine.net/wondercast/wondercast006-wanderlust-by-john-foley/ "Wondermachine Wondercast 006")
+[Wondermachine Wondercast 006](https://soundcloud.com/wondermachine-music/wondercast006-wanderlust-by-john-foley/ "Wondermachine Wondercast 006")
 
 [Providance Guest Mix](https://www.mixcloud.com/Quinntronix/providance-guest-mix-dj-john-foley/wondercast006-wanderlust-by-john-foley/ "Providance Guest Mix for Radio")
 

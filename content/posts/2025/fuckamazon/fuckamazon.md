@@ -37,3 +37,5 @@ Promise to never use:
 - Whole Foods
 - Zappos
 - and many more!
+
+I'm currently trying to never use Amazon Web Services (AWS) again. Onward! 
