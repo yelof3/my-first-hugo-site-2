@@ -216,13 +216,6 @@
 <p>I valued the collaborative nature of my earlier years at BSR, and seeing how successful the model was, I couldn’t help but become frustrated when the more recent student leadership teams decided to silo all of work to themselves. Which, due to the lack of knowledge and experience of the students, lead to a shit product that I didn’t care to have my name associated with anymore.</p>
 <p>On top of that, there’s been a trend towards more popular music in the programming and livestream, which we used to avoid in the spirit of producing shows that with ‘music for the curious listener’.</p>
 <p>There were numerous other reasons why it was clear my time at BSR was over, but the reduction in student/community collaboration and the trend towards popular music were definitely high on the list.</p>
-<audio controls preload="auto">
-
-    <source src="https://dn720200.ca.archive.org/0/items/FREE_background_music_dhalius/BloodCity.mp3">
-
-</audio>
-
-
 
         
     </div>
@@ -240,31 +233,6 @@
 
     
 
-
-
-
-    <link rel="stylesheet" href="/css/plyr.scss">
-
-    <script src="/js/plyr.polyfilled.js" crossorigin="anonymous"></script>
-    <script>
-      (function() {
-        const players = Array.from(document.querySelectorAll('.player')).map(
-            p => new Plyr(p, {
-                controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'download', 'fullscreen'],
-                
-                
-            })
-        );
-        
-        players.forEach(function(p){
-            p.on('play', event => {
-                const instance = event.detail.plyr;
-                console.log('Stop others players');
-                players.forEach(function(p){ if(p != instance) p.stop()});
-            })
-        });
-    })();
-    </script>
 
 
 

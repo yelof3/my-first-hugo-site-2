@@ -28,7 +28,6 @@ On top of that, there’s been a trend towards more popular music in the program
 
 There were numerous other reasons why it was clear my time at BSR was over, but the reduction in student/community collaboration and the trend towards popular music were definitely high on the list.
 
-{{< audio src="https://dn720200.ca.archive.org/0/items/FREE_background_music_dhalius/BloodCity.mp3" >}}
 
 
 
