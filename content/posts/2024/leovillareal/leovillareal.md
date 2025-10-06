@@ -5,6 +5,7 @@ description: "I finally got a chance to see Infinite Composition, a white LED in
 image: "/path/to/image.png"
 type: "post"
 tags: ["blog"]
+url: /infinite-composition-by-leo-villareal
 ---
 
 I finally got a chance to head over to Brown University’s Lindemann Performing Arts Center to see ‘Infinite Composition‘, a white LED installation that has been in the building lobby since Fall 2023.

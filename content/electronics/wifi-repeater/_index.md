@@ -2,6 +2,7 @@
 title: "WiFi Repeater"
 image: "/path/to/image.png"
 type: "page"
+url: /wifi-repeater
 ---
 
 - Node MCU ESP32 development board

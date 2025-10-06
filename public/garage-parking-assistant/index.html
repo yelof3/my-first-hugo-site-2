@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: #6666ff;
+            --font-size: 1.1rem;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>Garage Parking Assistant</title>
+    <meta name="description" content=" Arduino Nano I2C White OLED LCD Display DIY Module Rotary Encoder Code Switch Digital Potentiometer with Push Button 5mm LEDs I2C Serial Interface Module Port …">
+    <meta name="keywords" content=''>
+
+    <meta property="og:url" content="http://localhost:1313/garage-parking-assistant/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Garage Parking Assistant">
+    <meta property="og:description" content=" Arduino Nano I2C White OLED LCD Display DIY Module Rotary Encoder Code Switch Digital Potentiometer with Push Button 5mm LEDs I2C Serial Interface Module Port …">
+    <meta property="og:image" content="http://localhost:1313/path/to/image.png">
+    <meta property="og:image:secure_url" content="http://localhost:1313/path/to/image.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Garage Parking Assistant">
+    <meta name="twitter:description" content=" Arduino Nano I2C White OLED LCD Display DIY Module Rotary Encoder Code Switch Digital Potentiometer with Push Button 5mm LEDs I2C Serial Interface Module Port …">
+    <meta property="twitter:domain" content="http://localhost:1313/garage-parking-assistant/">
+    <meta property="twitter:url" content="http://localhost:1313/garage-parking-assistant/">
+    <meta name="twitter:image" content="http://localhost:1313/path/to/image.png">
+
+    
+    <link rel="canonical" href="http://localhost:1313/garage-parking-assistant/">
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print">
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.min.css">
+
+    
+    <link id="dark-theme" rel="stylesheet" href="/css/dark.min.css">
+
+    
+    <script src="/js/bundle.min.70293498aa96b2dbb767ec11a622eb2266d8fc37a0fff88233a82952e3c72b15.js" integrity="sha256-cCk0mKqWstu3Z&#43;wRpiLrImbY/Deg//iCM6gpUuPHKxU="></script>
+
+    
+    
+</head>
+
+// css
+<link rel="stylesheet" href="http://localhost:1313/css/custom.css">
+<body>
+        <script>
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="http://localhost:1313/">
+                <img src='/images/orangephoto.jpg' alt="avatar">
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="http://localhost:1313/">foley.works</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/" aria-label="" > Home </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/about" aria-label="" > About </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/music/" aria-label="" > Music </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/electronics/" aria-label="" > Electronics </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/posts/" aria-label="" > Posts </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://github.com/yelof3" aria-label="github" >  </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="http://localhost:1313/tags/" aria-label="" > Tags </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+                <a aria-hidden="true" role="switch">
+                    <span class="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span class="sr-only hamburger-menu-toggle-screen-reader-target">menu</span>
+                <a aria-checked="false" aria-labelledby="hamburger-menu-toggle" id="hamburger-menu-toggle-target" role="switch">
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/" > Home </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/about" > About </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/music/" > Music </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/electronics/" > Electronics </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/posts/" > Posts </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://github.com/yelof3" >  </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="http://localhost:1313/tags/" > Tags </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span class="sr-only dark-theme-toggle-screen-reader-target">theme</span>
+                    <a role="switch">
+                        <span class="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    <div class="post container">
+
+    <div class="post-header-section">
+        <h1>Garage Parking Assistant</h1>
+    </div>
+
+    <div class="post-content">
+        <ul>
+<li>Arduino Nano</li>
+<li>I2C White OLED LCD Display DIY Module</li>
+<li>Rotary Encoder Code Switch Digital Potentiometer with Push Button</li>
+<li>5mm LEDs</li>
+<li>I2C Serial Interface Module Port</li>
+<li>Ultrasonic Sensor – HC-SR04</li>
+</ul>
+<p>This garage parking assistant was a practical gag gift that I made for my Dad. He already had a perfectly accurate, low tech solution for the problem of how to determine when to stop pulling into the garage. But with time on my hands, I figured why not fix something that wasn’t broken!</p>
+<p>This build was based off of Ty Palowski’s project, and overall, it went great! I used an online 3D print shop for the case, and that whole process was very smooth overall. The only issue was that the code did not allow for the red light to turn off once the vehicle parked.</p>
+<h1 id="garage-parking-assistant-updates">Garage Parking Assistant Updates</h1>
+<p>Mid 2024: After some fishing around online, I met Hans from Germany, who shared with me his updated code for the garage parking assistant that contained the solution for the red light not turning off once the vehicle was parked. Thanks Hans!</p>
+<p>He asked me for my help publishing the code online, which can be found at this <a href="https://github.com/yelof3/ParkingGarageAssistant" title="garage-parking-assistant">Github repo.</a></p>
+<p>Here’s a view of the schematic I edited for the version.</p>
+<p><img src="/garage-parking-assistant/garage-parking-assistant-diagram2.jpg" alt="parking-garage-assistant"></p>
+
+    </div>
+    
+    
+</div>
+
+
+
+        </main><footer class="footer">
+    
+    
+
+    
+
+    
+
+    
+     <span>
+        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/gokarna-theme/gokarna-hugo">Gokarna</a>
+    </span>
+</footer>
+</body>
+</html>

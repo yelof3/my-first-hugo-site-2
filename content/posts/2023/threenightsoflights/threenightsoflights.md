@@ -5,6 +5,7 @@ description: "A wonderful Winter event put on by Avenue Concept"
 image: "/path/to/image.png"
 type: "post"
 tags: ["blog","Providence"]
+url: /three-nights-of-lights
 ---
 
 The big LED matrix I made for Wooly Fair will be made an appearance in downtown Providence this weekend, as part of the Three Nights of Lights Festival.

@@ -2,6 +2,7 @@
 title: "Pi-Hole"
 image: "/path/to/image.png"
 type: "page"
+url: /pi-hole
 ---
 
 - Raspberry Pi Zero 2W

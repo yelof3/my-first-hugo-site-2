@@ -5,6 +5,7 @@ description: "The Fediverse - the way social media should be."
 image: "/path/to/image.png"
 type: "post"
 tags: ["blog"]
+url: /the-fediverse
 ---
 
 The fediverse is a collection of community-owned, decentralized social networks that are constructed using the same ActivityPub protocol.

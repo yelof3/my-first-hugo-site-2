@@ -5,6 +5,7 @@ description: "With bittersweet emotions, after 12 years of DJing/programming, I 
 image: "/path/to/image.png"
 type: "post"
 tags: ["blog"]
+url: /20th-annual-thirsty-holiday-sale
 ---
 
 ![20th Annual Thirsty Holiday Sale flyer](/posts/2024/thirsty/thirsty-holiday-sale.jpg)

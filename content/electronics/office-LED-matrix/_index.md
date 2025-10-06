@@ -2,6 +2,7 @@
 title: "Office LED Matrix"
 image: "/path/to/image.png"
 type: "page"
+url: /office-led-matrix
 ---
 
 - 1,035 LEDs

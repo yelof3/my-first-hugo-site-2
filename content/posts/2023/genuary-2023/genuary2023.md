@@ -5,6 +5,7 @@ description: "After some indirect encouragement from some folks on my Mastodon i
 image: "/path/to/image.png"
 type: "post"
 tags: ["blog","Genuary"]
+url: /genuary-2023
 ---
 
 After some indirect encouragement from some folks on my Mastodon instance, I’ve decided to try my hand at Genuary! Each day of the month has a theme, which I’ve notated next to each header.

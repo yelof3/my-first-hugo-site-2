@@ -2,6 +2,7 @@
 title: "LED Table Lamp"
 image: "/path/to/image.png"
 type: "page"
+url: /led-table-lamp
 ---
 
 - NodeMCU development board
