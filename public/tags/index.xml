@@ -43,19 +43,5 @@
       <guid>http://localhost:1313/tags/genuary/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Electronics</title>
-      <link>http://localhost:1313/tags/electronics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/electronics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LED</title>
-      <link>http://localhost:1313/tags/led/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/led/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

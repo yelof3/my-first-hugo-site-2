@@ -34,4 +34,5 @@ The final design allowed for a full waterproofing, easy repair, and the ability 
 
 Overall, what an event! It was great to experience Wooly Fair this year from the artist side, rather than the management side. But the best part about this year was I was able to participate and build with my daughter.
 
-Read more about Wooly Fair over at Motif. 
+Read more about Wooly Fair over at Motif.
+

@@ -113,6 +113,9 @@ dateFormat = "January 2, 2006"
 # Home page meta description
 description = "tune purveyor, truth sayer, woo slayer, code layer "
 
+
+
+
 socialIcons = [
   {name = "mastodon", url = "https://hachyderm.io/@yelof"},
   {name = "mixcloud", url = "https://www.mixcloud.com/misterboots/"},
@@ -125,3 +128,5 @@ socialIcons = [
  ]
 
 theme = ["hugo-shortcode-roneo-collection", "gokarna"]
+googleAnalytics = "G-B5CRFNDB5G"
+

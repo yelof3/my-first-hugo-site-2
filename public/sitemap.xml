@@ -50,7 +50,7 @@
     <loc>http://localhost:1313/posts/2023/genuary-2023/genuary2023/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/radio/</loc>
+    <loc>http://localhost:1313/radio/radio/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
@@ -64,11 +64,7 @@
   </url><url>
     <loc>http://localhost:1313/electronics/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/electronics/</loc>
-  </url><url>
     <loc>http://localhost:1313/electronics/garage-parking-assistant/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/led/</loc>
   </url><url>
     <loc>http://localhost:1313/electronics/led-matrix/</loc>
   </url><url>
@@ -83,6 +79,8 @@
     <loc>http://localhost:1313/electronics/pi-hole/</loc>
   </url><url>
     <loc>http://localhost:1313/electronics/pixel-lamb/</loc>
+  </url><url>
+    <loc>http://localhost:1313/radio/</loc>
   </url><url>
     <loc>http://localhost:1313/electronics/wifi-repeater/</loc>
   </url><url>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radios on foley.works</title>
+    <link>http://localhost:1313/radio/</link>
+    <description>Recent content in Radios on foley.works</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/radio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/radio/radio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/radio/radio/</guid>
+      <description>&lt;p&gt;My first radio show was back in high school on Aquidneck Island, at 7 am. My co-host and I were freeform selectors, with an emphasis on rap, funk, and humor. We got suspended from the station for peppering in Beavis and Butthead clips during the program.&lt;/p&gt;&#xA;&lt;p&gt;I’ve been a volunteer and DJ at BSR Live, (Brown Student and Community Radio) since 2010. My current show, The Fieldhouse, has been on (and off) air since 2012. I use that show to showcase quirky, fun minimal techno made with the use of field recordings. Click here for some show archives.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

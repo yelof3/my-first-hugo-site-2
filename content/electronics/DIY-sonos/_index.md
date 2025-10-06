@@ -2,6 +2,7 @@
 title: "DIY Sonos"
 image: "/path/to/image.png"
 type: "page"
+url: /diy-sonos 
 ---
 
 - Raspberry Pi 4B
