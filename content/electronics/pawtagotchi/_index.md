@@ -1,5 +1,5 @@
 ---
-title: "Pawtagotchi"
+title: "Pwnagotchi"
 image: "/path/to/image.png"
 type: "page"
 url: /pwnagotchi
