@@ -9,16 +9,15 @@ type: "page"
 
 [Providance Guest Mix](https://www.mixcloud.com/Quinntronix/providance-guest-mix-dj-john-foley/wondercast006-wanderlust-by-john-foley/ "Providance Guest Mix for Radio")
 
-[ElevenEleven :: 33 Misterboots](https://www.mixcloud.com/misterboots/eleveneleven-33-misterboots/wondercast006-wanderlust-by-john-foley/ "ElevenEleven :: 33 Misterboots")
+[ElevenEleven :: 33 Misterboots](https://www.mixcloud.com/misterboots/eleveneleven-33-misterboots/ "ElevenEleven :: 33 Misterboots")
 
 
 ## Remixes
 [Swollen Eyes (John Foley Remix) on Waking by Revy](https://wondermachine.bandcamp.com/track/swollen-eyes-john-foley-remix "Swollen Eyes (John Foley Remix) on Waking by Revy")
 
-[Drunk Aliens With Keytars (John Foley's Dub in D Major Remix)](https://bleepsequence.bandcamp.com/track/drunk-aliens-with-keytars-john-foleys-dub-in-d-major-remix "Drunk Aliens With Keytars (John Foley's Dub in D Major Remix")
+[Drunk Aliens With Keytars (John Foley's Dub in D Major Remix)](https://bleepsequence.bandcamp.com/track/drunk-aliens-with-keytars-john-foleys-dub-in-d-major-remix/  "Drunk Aliens With Keytars (John Foley's Dub in D Major Remix")
 
 [Shibby Shitegeist, 'Jack All the Way Down' Remix)](https://foley.works/music/shibs-remix.mp3 "Shibby Shitegeist, 'Jack All the Way Down' Remix")
-
 
 
 

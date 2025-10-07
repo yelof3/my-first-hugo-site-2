@@ -24,5 +24,3 @@ http://issuu.com/vohmagazine/docs/voh_lexicon02/38
 
 
 
-
-
