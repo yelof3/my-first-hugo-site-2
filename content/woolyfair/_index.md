@@ -1,7 +1,8 @@
 ---
-title: "Writing"
+title: "Wooly Fair"
 image: "/path/to/image.png"
 type: "page"
+url: /wooly-fair
 ---
 
 The Wooly Fair is a participatory DIY art carnival held in Providence. I learned of it while on a date in 2013: she was connected with the Woolies, and said I really should meet them.
