@@ -4,8 +4,8 @@ image: "images/orangephoto.jpg"
 type: "page"
 ---
 
-## foley.works
-This site was originally created as a work portfolio while I was looking for a job. I got hired just as I was completing the site, so I turned it into a little portfolio of my fun-based projects instead. Below is a bit of info about me. 
+## Foley.works
+This site was originally created as a work portfolio while I was looking for a job. I got hired just as I was completing the site, so I turned it into a little portfolio of my fun-based projects instead. 
 
 ## Foley
 I’m the father of a kind, intelligent, funny and all around wonderful girl. I’m so lucky to be her Dad, and am amazed and inspired by her every day.
