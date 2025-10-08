@@ -113,6 +113,9 @@ dateFormat = "January 2, 2006"
 # Home page meta description
 description = "tune purveyor, truth sayer, woo slayer, code layer "
 
+# Previous/Next buttons on posts
+togglePreviousAndNextButtons = true
+
 
 
 

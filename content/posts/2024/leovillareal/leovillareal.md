@@ -2,7 +2,7 @@
 title: "Infinite Composition by Leo Villareal"
 date: 2024-04-17
 description: "I finally got a chance to see Infinite Composition, a white LED installation by Leo Villareal at Brown University's Lindemann Performing Arts Center."
-image: "/path/to/image.png"
+image: "/infinite-composition.jpg"
 type: "post"
 tags: ["blog"]
 url: /infinite-composition-by-leo-villareal

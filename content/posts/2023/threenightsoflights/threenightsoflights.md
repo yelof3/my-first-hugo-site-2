@@ -2,7 +2,7 @@
 title: "Three Nights of Lights"
 date: 2023-12-01
 description: "A wonderful Winter event put on by Avenue Concept"
-image: "/path/to/image.png"
+image: "/troublewithmatrix.jpg"
 type: "post"
 tags: ["blog","Providence"]
 url: /three-nights-of-lights

@@ -1,15 +1,15 @@
 ---
 title: "Pi-Hole"
-image: "/path/to/image.png"
+image: "/pi-hole.jpg"
 type: "page"
 url: /pi-hole
 ---
 
-- Raspberry Pi Zero 2W
-- MicroSD Card
-- Raspberry Pi Zero Case
-- Raspberry Pi OS
-- Pi-hole software
+- *Raspberry Pi Zero 2W*
+- *MicroSD Card*
+- *Raspberry Pi Zero Case*
+- *Raspberry Pi OS*
+- *Pi-hole software*
 
 This Pi-Hole project can be done in as little as 15 minutes, or if you have an old Netgear router like I had, maybe a few days. It has no fancy appearance, but has a huge impact in the home. Not only will you rid yourself of most advertising on your network devices, but you’ll also be able to take a closer look at the details of your network traffic, and speed up your overall network as well!
 

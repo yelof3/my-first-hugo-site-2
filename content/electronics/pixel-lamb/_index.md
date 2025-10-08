@@ -1,6 +1,6 @@
 ---
 title: "Pixel Lamb"
-image: "/path/to/image.png"
+image: "/PXL_20231001_235000123-scaled-e1696433732373.jpg"
 type: "page"
 url: /pixel-lamb
 ---
@@ -10,19 +10,19 @@ Pixel Lamb is a sound-reactive LED matrix that was made for Wooly Fair 2023 at T
 ![Pixel-lamb](/pixel-lamb-red-noses.jpg)
 
 
-- Waterproof LED display
-- Lots of silicone
-- 4’W x 4’H alupanel
-- 1224 total LEDs
-- Pixelblaze V3
-- Pixelblaze Pro Output Expander
-- Pixelblaze Sensor Expansion Board
-- Mean Well RSP-320-5 60a Power Supply
-- 686 addressable LEDs for the lamb, identified on a 3rd ‘Z’ axis
-- 3,672 total JSON values
-- 1/8″ Frosted plexiglass diffusion panel
-- 2 piece wood frame with 3/8″ standoff for panel
-- 1/8″ aircraft cable and fasteners for suspension
+- *Waterproof LED display*
+- *Lots of silicone*
+- *4’W x 4’H alupanel*
+- *1224 total LEDs*
+- *Pixelblaze V3*
+- *Pixelblaze Pro Output Expander*
+- *Pixelblaze Sensor Expansion Board*
+- *Mean Well RSP-320-5 60a Power Supply*
+- *686 addressable LEDs for the lamb, identified on a 3rd ‘Z’ axis*
+- *3,672 total JSON values*
+- *1/8″ Frosted plexiglass diffusion panel*
+- *2 piece wood frame with 3/8″ standoff for panel*
+- *1/8″ aircraft cable and fasteners for suspension*
 
 
 When I got laid off at the beginning of the pandemic in 2020, I had some free time, and instead of learning to bake sourdough bread, I learned how to control LEDs.

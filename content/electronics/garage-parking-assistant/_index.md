@@ -1,16 +1,16 @@
 ---
 title: "Garage Parking Assistant"
-image: "/path/to/image.png"
+image: "/garage-parking-assistant-diagram2.jpg"
 type: "page"
 url: /garage-parking-assistant
 ---
 
-- Arduino Nano
-- I2C White OLED LCD Display DIY Module
-- Rotary Encoder Code Switch Digital Potentiometer with Push Button
-- 5mm LEDs
-- I2C Serial Interface Module Port 
-- Ultrasonic Sensor – HC-SR04
+- *Arduino Nano*
+- *I2C White OLED LCD Display DIY Module*
+- *Rotary Encoder Code Switch Digital Potentiometer with Push Button*
+- *5mm LEDs*
+- *I2C Serial Interface Module Port* 
+- *Ultrasonic Sensor – HC-SR04*
 
 This garage parking assistant was a practical gag gift that I made for my Dad. He already had a perfectly accurate, low tech solution for the problem of how to determine when to stop pulling into the garage. But with time on my hands, I figured why not fix something that wasn’t broken! 
 

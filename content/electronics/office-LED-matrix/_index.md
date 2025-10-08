@@ -1,18 +1,18 @@
 ---
 title: "Office LED Matrix"
-image: "/path/to/image.png"
+image: "/officeledmatrix.jpg"
 type: "page"
 url: /office-led-matrix
 ---
 
-- 1,035 LEDs
-- WS2812B RGB LED
-- 69 x 15
-- D1 Mini ESP32
-- INMP441 I2S Microphone
-- Mean Well RSP-200-5 40a Power Supply
-- Wire and solder
-- 1/8″ Frosted plexiglass diffusion panel
+- *1,035 LEDs*
+- *WS2812B RGB LED*
+- *69 x 15*
+- *D1 Mini ESP32*
+- *INMP441 I2S Microphone*
+- *Mean Well RSP-200-5 40a Power Supply*
+- *Wire and solder*
+- *1/8″ Frosted plexiglass diffusion panel*
 
 ![office-LED-matrix](/officeLEDmatrix.jpg)
 

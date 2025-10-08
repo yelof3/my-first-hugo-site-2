@@ -1,14 +1,14 @@
 ---
 title: "DIY Sonos"
-image: "/path/to/image.png"
+image: "/diy-sonos.jpg"
 type: "page"
 url: /diy-sonos 
 ---
 
-- Raspberry Pi 4B
-- 480GB Kingston A400 2.5-inch Solid State Drive
-- Hifiberry DAC+ Zero
-- Plastic enclosure
+- *Raspberry Pi 4B*
+- *480GB Kingston A400 2.5-inch Solid State Drive*
+- *Hifiberry DAC+ Zero*
+- *Plastic enclosure*
 
 After hours of attempting to get a Raspberry Pi Zero online, I finally was able to nab one. I immediately searched for projects I could roll my sleeves up on, and found this great little DIY Sonos project from Maker Project Lab. What a solution for me, as someone who has probably 1000+ albums in either .mp3 or .flac form. NAS for my music!
 

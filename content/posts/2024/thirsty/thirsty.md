@@ -2,7 +2,7 @@
 title: "20th Annual Thirsty Holiday Sale"
 date: 2024-12-09
 description: "With bittersweet emotions, after 12 years of DJing/programming, I recently said goodbye to BSR Live."
-image: "/path/to/image.png"
+image: "/thirsty-holiday-sale.jpg"
 type: "post"
 tags: ["blog"]
 url: /20th-annual-thirsty-holiday-sale

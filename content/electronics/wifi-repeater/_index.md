@@ -1,14 +1,14 @@
 ---
 title: "WiFi Repeater"
-image: "/path/to/image.png"
+image: "/wifi-repeater.jpg"
 type: "page"
 url: /wifi-repeater
 ---
 
-- Node MCU ESP32 development board
-- 2.4GHz Antenna
-- Hobby knife
-- Solder
+- *Node MCU ESP32 development board*
+- *2.4GHz Antenna*
+- *Hobby knife*
+- *Solder*
 
 What a fun little hack this wifi repeater was. Out of the hour or so of time required, 50 of those minutes are spent prepping the Node MCU board to solder the antenna to.
 

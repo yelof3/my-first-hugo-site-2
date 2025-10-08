@@ -1,16 +1,16 @@
 ---
 title: "Arduino RGB LED Shield"
-image: "/path/to/image.png"
+image: "/arduinorgbledshield.jpg"
 type: "page"
 url: /arduino-rgb-shield
 ---
 
-- Arduino Uno
-- 12v RGB LED strip (SMD5050)
-- 3 x 10k Ohm Resistors
-- 3 x Logic Level N-channel MOSFETs
-- 12v power supply
-- solder and wires
+- *Arduino Uno*
+- *12v RGB LED strip (SMD5050)*
+- *3 x 10k Ohm Resistors*
+- *3 x Logic Level N-channel MOSFETs*
+- *12v power supply*
+- *solder and wires*
 
 ![rgb-led-shield](/arduinorgbledshield.jpg)
 
