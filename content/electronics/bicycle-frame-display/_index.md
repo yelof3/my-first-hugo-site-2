@@ -5,13 +5,12 @@ type: "page"
 url: /bicycle-frame-display 
 ---
 
-- 2 sided display
-- 526 total LEDs (WS2802B)
-- lots of solder and wire
-- Arduino Nano
-- Voltage regulator
-- Ring
-- 7.4v RC battery pack
+- *2 sided display*
+- *526 total LEDs (WS2802B)*
+- *lots of solder and wire*
+- *Arduino Nano*
+- *Voltage regulator*
+- *7.4v RC battery pack*
 
 
 I started riding with the Providence Bike Jam crew at the beginning of 2021, and I knew from my first ride that these were my folks. Lights, music, smiles, and bicycle advocacy; what’s not to love.
