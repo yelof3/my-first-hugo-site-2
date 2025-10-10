@@ -19,9 +19,9 @@ It has the big boys scared, and for good reason.
 From fediverse.to: 
 # Each fediverse instance is managed by a human admin. You can find fediverse instances dedicated to art, music, technology, culture, or politics.
 
-It has networks that are similar to fascist-owned and controlled corporations like Facebook/Meta, X, etc, but they’re much, much better. To start, it has no advertising or feed algorithms, and is filled with lots of kind, smart folks from all over the world.
+It has networks that are similar to fascist-owned and controlled corporations like Facebook/Meta, X, etc, but they’re much, much better. To start, it has no advertising or feed algorithms, and is filled with lots of kind, smart folks from all over the world. And of course, most importantly, not run by evil companies.
 
-In August of 2023 I joined one of those social networks, called Mastodon, and I haven’t looked back since. There are often many servers or ‘instances’ within a network, and I joined Hachyderm, which has a tech industry theme. I’m in the presence of smart, funny, highly skilled folks, and I couldn’t be happier with my experience there so far. You can take a look at my Mastodon timeline on my contact page.
+In August of 2023 I joined one of those social networks, called [Mastodon](https://joinmastodon.org "joinmastodon.org]"), and I haven’t looked back since. There are often many servers or ‘instances’ within a network, and I joined [Hachyderm](https://hachyderm.io "hachyderm.io]"), which has a tech industry theme. I’m in the presence of smart, funny, highly skilled folks, and I couldn’t be happier with my experience there so far. 
 
 ![Hachyderm logo](/posts/thefediverse/hachyderm-logo.png)
 

@@ -19,3 +19,5 @@ Given my recent excursion into the world of microprocessors and LEDs, I knew I h
 
 I can upload new patterns/designs to the Nano, which helps keep it fresh. I’m currently working on plans to adapt this rig to be sound reactive.
 
+![Bicycle Frame Display](/bicycleframedisplay.jpg)
+

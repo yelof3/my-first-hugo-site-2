@@ -10,7 +10,7 @@ url: /diy-sonos
 - *Hifiberry DAC+ Zero*
 - *Plastic enclosure*
 
-After hours of attempting to get a Raspberry Pi Zero online, I finally was able to nab one. I immediately searched for projects I could roll my sleeves up on, and found this great little DIY Sonos project from Maker Project Lab. What a solution for me, as someone who has probably 1000+ albums in either .mp3 or .flac form. NAS for my music!
+After hours of attempting to get a Raspberry Pi Zero online, I finally was able to nab one. I immediately searched for projects I could roll my sleeves up on, and found [this great little DIY Sonos project](https://youtu.be/SErJLMjRhfM?si=S0KTcvvUxWy0wvGp "link to a Maker Project Lab youtube video") from Maker Project Lab. What a solution for me, as someone who has probably 1000+ albums in either .mp3 or .flac form. NAS for my music!
 
 After waiting a  week or two for my parts to trickle in via the mail, I got everything assembled and written. Works like a charm! Now I can easily select from my wide digital music library, all from an app on my phone.
 

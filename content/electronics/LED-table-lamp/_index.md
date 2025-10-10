@@ -8,6 +8,7 @@ url: /led-table-lamp
 - *NodeMCU development board*
 - *WS2812B LED strip (77 LEDs)*
 - *Box store table lamp*
+- *Wooden Dowl*
 
 ![LED-table-lamp](/LEDtablelamp.jpg)
 
