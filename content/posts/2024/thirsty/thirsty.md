@@ -1,7 +1,7 @@
 ---
 title: "20th Annual Thirsty Holiday Sale"
 date: 2024-12-09
-description: "With bittersweet emotions, after 12 years of DJing/programming, I recently said goodbye to BSR Live."
+description: "One of my favorite (and nowadays, only) DJ gigs- the Thirsty Holiday Sale. This one is the 20th!"
 image: "/thirsty-holiday-sale.jpg"
 type: "post"
 tags: ["blog"]

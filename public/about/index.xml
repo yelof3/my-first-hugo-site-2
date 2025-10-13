@@ -7,5 +7,12 @@
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reads</title>
+      <link>http://localhost:1313/reads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reads/</guid>
+      <description>&lt;p&gt;For someone with ADHD, I read a decent amount of books. They&amp;rsquo;re mostly about modern physics, although occasionally I&amp;rsquo;ll read some other types of nonfiction, and on a blue moon, even some fiction. Here&amp;rsquo;s a lsit of things I&amp;rsquo;ve been reading over the last several years.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Lee Smolin: Einstein&amp;rsquo;s Unfinished Revolution&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Aram Sinnreich, Jesse Gilbert: The Secret Life of Data: Navigating Hype and Uncertainty in the Age of Algorithmic Surveillance.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
