@@ -82,6 +82,8 @@
   </url><url>
     <loc>http://localhost:1313/radio/</loc>
   </url><url>
+    <loc>http://localhost:1313/reads/</loc>
+  </url><url>
     <loc>http://localhost:1313/wifi-repeater/</loc>
   </url><url>
     <loc>http://localhost:1313/wooly-fair/</loc>

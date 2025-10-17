@@ -71,5 +71,12 @@
       <guid>http://localhost:1313/radio/radio/</guid>
       <description>&lt;p&gt;My first radio show was back in high school on Aquidneck Island, at 7 am. My co-host and I were freeform selectors, with an emphasis on rap, funk, and humor. We got suspended from the station for peppering in Beavis and Butthead clips during the program.&lt;/p&gt;&#xA;&lt;p&gt;I’ve been a volunteer and DJ at BSR Live, (Brown Student and Community Radio) since 2010. My current show, The Fieldhouse, has been on (and off) air since 2012. I use that show to showcase quirky, fun minimal techno made with the use of field recordings. Click here for some show archives.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Reads</title>
+      <link>http://localhost:1313/reads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reads/</guid>
+      <description>&lt;p&gt;Occasionally, I&amp;rsquo;ll read a book. They&amp;rsquo;re mostly about modern physics, although occasionally I&amp;rsquo;ll read some other types of nonfiction, and on a blue moon, even some fiction. Here&amp;rsquo;s a lsit of things I&amp;rsquo;ve been reading over the last several years.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Lee Smolin: Einstein&amp;rsquo;s Unfinished Revolution&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Aram Sinnreich, Jesse Gilbert: The Secret Life of Data: Navigating Hype and Uncertainty in the Age of Algorithmic Surveillance.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Lee Smolin: Three Roads to Quantum Gravity&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
