@@ -88,6 +88,11 @@ enableDefault = true
 [markup.goldmark.renderHooks.link]
 enableDefault = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
 custom_css = ["css/custom.css"]
 

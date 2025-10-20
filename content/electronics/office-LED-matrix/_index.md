@@ -28,7 +28,7 @@ Past matrices had rather rudimentary frames and diffusion panels, typically usin
 A wood router was the answer! That allowed me to cut even grooves for the diffusion panel, so that it was able to just slide right into the frame. 
 
 # Software Update
-I started out with the 'standard' WLED sound reactive version. It worked well enough where I was able to tailor some patterns to my awkward 69x15 LED matrix, it still really didn't compare to the paterns on the current non-sound-reactive WLED install. 
+I started out with the 'standard' WLED sound reactive version. It worked well enough where I was able to tailor some patterns to my awkward 69x15 LED matrix, but it still really didn't compare to the paterns on the current non-sound-reactive WLED install. 
 
 I did some searching, and saw a post indicating that the [WLED MoonModules](https://mm.kno.wled.ge "link to WLED MoonModules fork page") fork might be better with non-square matricies. I gave it an upload, reset my audio and data pin settings, as well as matrix dimensions, etc, and I was off and running. Overall, this sound reactive fork has been the best performer for my super-rectangle matrix, and I'm happy I spent a bit of time looking into another fork. 
 
