@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on foley.works</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <description>Recent content in AI on foley.works</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Slop</title>
+      <link>http://localhost:1313/ai-slop/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ai-slop/</guid>
+      <description>&lt;p&gt;There are a lot of things to hate about AI- many more issues than I could possibly cover in this one blog post. Here are some of my particular gripes with AI, and why I think it should be regulated more closely.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ai-produces-garbage&#34;&gt;AI produces garbage&lt;/h2&gt;&#xA;&lt;p&gt;In areas where it seems to be used most, AI produces absolute garbage. From imagry to video to music, and everything else in between, AI tools are great at churning out mediocre results that are devoid of the human element.&#xA;&lt;img src=&#34;http://localhost:1313/images/AI-slop.jpg&#34; alt=&#34;AI Slop&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

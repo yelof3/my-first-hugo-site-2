@@ -7,7 +7,7 @@ type: "post"
 tags: ["blog","fuck amazon","amazon"]
 ---
 
-Fuck Amazon. Seriously. 
+Fuck Amazon. Seriously. But more specifically, fuck Jeff Bezos. 
 
 There are many, many reasons to hate Amazon, and Jeff Bezos. I tend to focus on worker and vendor conditions, and the fact that in his ideal world (which we’re quickly heading towards), he would barely be employing any humans at all.  But really, take your pick from a long list of very good reasons across any of his business properties. Don’t even get me started on the Washington Post or the new Alexa security issues–topics for future blog posts, perhaps. 
 
@@ -21,21 +21,36 @@ My boycott of Amazon is roughly 15 years old, and going strong. If I need to ord
 
 Personally, I don’t understand the big pull of the masses to Amazon. From what I’ve gathered, the main reason is convenience and speed of delivery/Prime. 
 
-# How to Fuck Amazon
+# How to Fuck Amazon and Jeff Bezos
 
 It’s pretty simple! Here are some simple steps you can take:
 
 Promise to never use:
 
-- Amazon
-- Echo / Amazon Alexa 
-- Audible
-- Fire TV
-- Good Reads
-- Ring
-- Twitch
-- Whole Foods
-- Zappos
-- and many more!
+- *Amazon*
+- *Echo / Amazon Alexa* 
+- *Audible*
+- *Fire TV*
+- *Goodreads*
+- *Goodthreads*
+- *Ring*
+- *MGM Holdings: including MGM Studios, Orion Pictures, and United Artists*
+- *Twitch*
+- *IMDb*
+- *Eero*
+- *Kindle*
+- *Whole Foods*
+- *Pillpack*
+- *One Medical*
+- *iRobot*
+- *Zoox*
+- *Zappos*
+- *Wag*
+- *Amazon Home Services*
+- *Blink*
+- *Mama Bear*
+- *and many more!*
 
-I'm currently trying to never use Amazon Web Services (AWS) again. Onward! 
+While you're at it, fuck the Washington Post too. There are thousands of reasons why you should have done so before now, but if you need a recent reason, their asshat op ed team just published some utter piece of shit defending the destruction of the East wing of the White House for some stupid Trump Ballroom. On top of that, Amazon donated 300 million toward the construction of it. 
+
+I'm currently trying to never use Amazon Web Services (AWS) again, at least personally. Onward!
