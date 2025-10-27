@@ -9,7 +9,7 @@ tags: ["blog","fuck amazon","amazon"]
 
 Fuck Amazon. Seriously. But more specifically, fuck Jeff Bezos. 
 
-There are many, many reasons to hate Amazon, and Jeff Bezos. I tend to focus on worker and vendor conditions, and the fact that in his ideal world (which we’re quickly heading towards), he would barely be employing any humans at all.  But really, take your pick from a long list of very good reasons across any of his business properties. Don’t even get me started on the Washington Post or the new Alexa security issues–topics for future blog posts, perhaps. 
+There are many, many reasons to hate Amazon, and Jeff Bezos. I tend to focus on worker and vendor conditions, and the fact that in his ideal world [(which we’re quickly heading towards)](https://www.mercurynews.com/2025/10/23/amazon-replacing-employees-with-robots/ "Link to article about Amazon planning to replace up to 600,000 human workers with robots"), he would barely be employing any humans at all.  But really, take your pick from a long list of very good reasons across any of his business properties. Don’t even get me started on the Washington Post or the new Alexa security issues–topics for future blog posts, perhaps. 
 
 Ethics aside, I just hate seeing one person or one company with the majority of the stuff.
 
