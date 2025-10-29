@@ -8,7 +8,7 @@ tags: ["blog","AI","AI slop","LLM"]
 url: /ai-slop
 ---
 
-There are a lot of things to hate about AI- many more issues than I could possibly cover in this one blog post. Here are some of my particular gripes with AI, and why I think it should be regulated more closely. 
+There are a lot of things to hate about AI- many more issues than I could possibly cover in this one blog post. In no particular order, here are some of my particular gripes with AI, and why I think it should be regulated more closely. 
 
 ## AI Produces Slop
 In areas where it seems to be used most, AI produces slop. From imagry to video to music, and everything else in between, AI tools are great at churning out mediocre results that are devoid of the human element that made its learning material so great in the first place. 

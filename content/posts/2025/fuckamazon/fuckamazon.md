@@ -5,6 +5,7 @@ description: "Fuck Amazon. Seriously. If you must buy something online, buy it e
 image: "/fuckamazon.jpg"
 type: "post"
 tags: ["blog","fuck amazon","amazon"]
+url: /fuck-amazon
 ---
 
 Fuck Amazon. Seriously. But more specifically, fuck Jeff Bezos. 
