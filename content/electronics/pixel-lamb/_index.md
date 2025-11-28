@@ -13,7 +13,7 @@ Pixel Lamb is a sound-reactive LED matrix that was made for Wooly Fair 2023 at T
 - *Waterproof LED display*
 - *Lots of silicone*
 - *4’W x 4’H alupanel*
-- *1224 total LEDs*
+- *1224 total LEDs (WS2812B)*
 - *Pixelblaze V3*
 - *Pixelblaze Pro Output Expander*
 - *Pixelblaze Sensor Expansion Board*

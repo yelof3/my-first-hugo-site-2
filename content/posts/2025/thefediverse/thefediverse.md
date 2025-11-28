@@ -2,10 +2,11 @@
 title: "The Fediverse"
 date: 2025-02-05
 description: "The Fediverse - the way social media should be."
-image: "/path/to/image.png"
+image: "/posts/thefediverse/fediverse.jpg"
 type: "post"
 tags: ["blog"]
 url: /the-fediverse
+tags: ["blog","small web","fediverse","mastodon","pixelfed"]
 ---
 
 The fediverse is a collection of community-owned, decentralized social networks that are constructed using the same ActivityPub protocol.
@@ -17,7 +18,7 @@ It has the big boys scared, and for good reason.
 ![A phone displaying Fediverse apps](/posts/thefediverse/fediverse.jpg)
 
 From fediverse.to: 
-# Each fediverse instance is managed by a human admin. You can find fediverse instances dedicated to art, music, technology, culture, or politics.
+> Each fediverse instance is managed by a human admin. You can find fediverse instances dedicated to art, music, technology, culture, or politics.
 
 It has networks that are similar to fascist-owned and controlled corporations like Facebook/Meta, X, etc, but they’re much, much better. To start, it has no advertising or feed algorithms, and is filled with lots of kind, smart folks from all over the world. And of course, most importantly, not run by evil companies.
 

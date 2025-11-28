@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mastodon on foley.works</title>
+    <link>http://localhost:1313/tags/mastodon/</link>
+    <description>Recent content in Mastodon on foley.works</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mastodon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Fediverse</title>
+      <link>http://localhost:1313/the-fediverse/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/the-fediverse/</guid>
+      <description>&lt;p&gt;The fediverse is a collection of community-owned, decentralized social networks that are constructed using the same ActivityPub protocol.&lt;/p&gt;&#xA;&lt;p&gt;It contains popular, ad free alternatives to large corporate social networks like Facebook and Twitter.&lt;/p&gt;&#xA;&lt;p&gt;It has the big boys scared, and for good reason.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/thefediverse/fediverse.jpg&#34; alt=&#34;A phone displaying Fediverse apps&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;From fediverse.to:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Each fediverse instance is managed by a human admin. You can find fediverse instances dedicated to art, music, technology, culture, or politics.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

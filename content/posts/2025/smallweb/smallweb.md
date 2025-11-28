@@ -14,16 +14,16 @@ After a few weeks under the belt, I felt confident enough in the build to share 
 
 ## What is the Small Web? 
 I had to look into the term, and found that it describes (for the most part) small, noncommercial, personal static websites that harken back to the earlier days of the internet. Now we're really talking! [This post](https://benhoyt.com/writings/the-small-web-is-beautiful/ "link to post by Ben Hoyt on the small web") from 2021 by Ben Hoyt is often linked to when talking about the meaning of 'the small web', and for good reason. The summary of the post, from Ben:
->I believe that small websites are compelling aesthetically, but are also important to help us resist selling our souls to large tech companies. In this essay I present a vision for the “small web” as well as the small software and architectures that power it. Also, a bonus rant about microservices.
+> I believe that small websites are compelling aesthetically, but are also important to help us resist selling our souls to large tech companies. In this essay I present a vision for the “small web” as well as the small software and architectures that power it. Also, a bonus rant about microservices.
 
 ## What the Small Web Means to Me
-When I first started accessing the internet, circa 1995, it was open but pretty small, and wild wild west-y. It had yet to be consumerized, and unless you had the chops, it was rather difficult to create a website and put it live on the internet. I certainly didn't have the chops back then. 
+When I first started accessing the internet, circa 1995, it was open but pretty small, and wild wild west-y. It had yet to be vastly consumerized, and unless you had the chops, it was rather difficult to create a website and put it live on the internet. I certainly didn't have the chops back then. 
 
-Blogging platforms and social media networks allowed people with no coding experience to publish things on the internet. I never joined the Myspace platform, but I did create a blog to showcase some of the weird and creative music I listen to. 
+Blogging platforms and social media networks allowed people with no coding experience to publish things on the internet. I never joined the Myspace platform, but I did create a blog to showcase some of the weird and creative music I listen to. I met friends across the globe from that blog, some of whom I still keep in touch with to this day. 
 
-I happened upon a blog by Dj/Rupture, and saw that he had a friends/links section with links to his friends' and colleagues' website or blog links. They also maintained links sections, and they all frequently referred to each other and linked to each other's content.
+I happened upon a [blog by Dj/Rupture](https://www.negrophonic.com "link to DJ/Rupture's blog"), and saw that he had a friends/links section with links to his friends' and colleagues' website or blog links. They also maintained links sections, and they all frequently referred to each other and linked to each other's content.
 
-The essence of those connections is a big part of my ideal of the 'small web'. I hate that we've ended up with a massive social media company that profits off of each of our interactions, and wish that the masses maintained their own special place on the internet, whether that be a blog, or a small website. And I wish that we all linked thoughtfully to each other's spots on the web.
+The essence of those connections is a big part of my ideal of the 'small web'. I hate that we've ended up with a massive social media company that profits off of each of our interactions. In fact, many of those bloggers reduced their posting frequency over time as the frequency of their tweets increased. I did the same thing. and wish that the masses maintained their own special place on the internet, whether that be a blog, or a small website. And I wish that we all thoughtfully linked to each other's spots on the web.
 
 ## Hurdles
 Why don't more people join this 'small web' shangri la? I see a few major hurdles preventing that from happening. 

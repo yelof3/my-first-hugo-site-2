@@ -86,6 +86,20 @@
       <description></description>
     </item>
     <item>
+      <title>Mastodon</title>
+      <link>http://localhost:1313/tags/mastodon/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mastodon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pixelfed</title>
+      <link>http://localhost:1313/tags/pixelfed/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pixelfed/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Providence</title>
       <link>http://localhost:1313/tags/providence/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
@@ -97,6 +111,20 @@
       <link>http://localhost:1313/tags/genuary/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/genuary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arduino</title>
+      <link>http://localhost:1313/tags/arduino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/arduino/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wooly Fair</title>
+      <link>http://localhost:1313/tags/wooly-fair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wooly-fair/</guid>
       <description></description>
     </item>
   </channel>
