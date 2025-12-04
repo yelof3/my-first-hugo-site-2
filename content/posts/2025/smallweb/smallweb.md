@@ -19,14 +19,14 @@ I had to look into the term, and found that it describes (for the most part) sma
 ## What the Small Web Means to Me
 When I first started accessing the internet, circa 1995, it was open but pretty small, and wild wild west-y. It had yet to be vastly consumerized, and unless you had the chops, it was rather difficult to create a website and put it live on the internet. I certainly didn't have the chops back then. 
 
-Blogging platforms and social media networks allowed people with no coding experience to publish things on the internet. I never joined the Myspace platform, but I did create a blog to showcase some of the weird and creative music I listen to. I met friends across the globe from that blog, some of whom I still keep in touch with to this day. 
+Blogging platforms and social media networks came along and allowed people with no coding experience, like me at the time, to publish things on the internet. I never joined the Myspace platform, but I did create a blog to showcase some of the weird and creative music I listen to. I met friends across the globe from that blog, some of whom I still keep in touch with to this day. 
 
-I happened upon a [blog by Dj/Rupture](https://www.negrophonic.com "link to DJ/Rupture's blog"), and saw that he had a friends/links section with links to his friends' and colleagues' website or blog links. They also maintained links sections, and they all frequently referred to each other and linked to each other's content.
+I happened upon a [blog by Dj/Rupture](https://www.negrophonic.com "link to DJ/Rupture's blog"), and saw that he had a friends/links section with links to his friends' and colleagues' website or blog links. They also maintained links sections, and they all frequently referred to each other and linked to each other's content. Inspired, I started linking to blogs, websites, and artists who's work I loved. 
 
-The essence of those connections is a big part of my ideal of the 'small web'. I hate that we've ended up with a massive social media company that profits off of each of our interactions. In fact, many of those bloggers reduced their posting frequency over time as the frequency of their tweets increased. I did the same thing. and wish that the masses maintained their own special place on the internet, whether that be a blog, or a small website. And I wish that we all thoughtfully linked to each other's spots on the web.
+The essence of those connections is a big part of my ideal of the 'small web'. I hate that we've ended up with a massive social media company that profits off of each of our interactions. Sadly, many of those bloggers reduced their posting frequency over time as the frequency of their tweets and social media posts increased. I did the same thing, and wish that we all maintained our own special place on the internet, whether that be a blog, or a small website. And I wish that we all thoughtfully linked to each other's spots on the web. 
 
 ## Hurdles
-Why don't more people join this 'small web' shangri la? I see a few major hurdles preventing that from happening. 
+Why don't more people join this 'small web' Shangri La? I see a few major hurdles preventing that from happening. 
 
 ### Skills
 I'll admit that it does take a (very learnable) set of skills to set up a personal spot on the internet that isn't attached to a massive tech company. One of the big appeals to social media platforms is that they avoid the requirement of learning those skills. But these are skills worth having, and as time goes on, we see that statement bearing true in more and more ways, as we learn about what these social media companies are willing to do to capitalize on our engagement. 

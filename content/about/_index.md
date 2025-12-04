@@ -4,6 +4,14 @@ image: "images/orangephoto.jpg"
 type: "page"
 ---
 
+- *Dad*
+- *Electronics/LED Tiknkerer/Hacker*
+- *Amateur Music Producer*
+- *Radio Producer*
+- *Digital Director*
+- *Privacy and Information Security Advovate*
+- *DJ*
+
 ## Foley.works
 This site was originally created as a work portfolio while I was looking for a job. I got hired just as I was completing the site, so I turned it into a little portfolio of my fun-based projects instead. 
 

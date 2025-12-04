@@ -17,3 +17,7 @@ When I got laid off at the beginning of the pandemic in 2020, I had some free ti
 I made several LED matrices, with this one being the largest so far. I’m currently in the logistics stage of a 1400 LED matrix, so check back in a bit.
 
 ![LED Matrix](/led-matrix.png)
+
+## Update
+I ended up building that big boy, but it ended up being
+[1,224 pixels](https://foley.works/pixel-lamb/ "link to Pixel Lamb page").

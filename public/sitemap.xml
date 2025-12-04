@@ -53,6 +53,12 @@
     <loc>http://localhost:1313/tags/fuck-amazon/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/mastodon/</loc>
+    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pixelfed/</loc>
+    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/the-fediverse/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
   </url><url>
