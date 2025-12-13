@@ -1,6 +1,6 @@
 ---
 title: "Lil' Lamb"
-image: "/lil-lamb-guts.jpg"
+image: "/images/lil-lamb-guts.jpg"
 type: "page"
 url: /lil-lamb
 ---
@@ -14,7 +14,7 @@ url: /lil-lamb
 - *hot glue*
 
 
-I made this lil' lamb in preparation of the design and creation of the Pixel Lamb for *The Big Deal*- the 2023 manifestation of Wooly Fair. In reality, it didn't really serve as a stepping stone for the big one, but it did give us something fun to look at while we worked on Wooly Fair things. 
+I made this lil' lamb in preparation of the design and creation of the [Pixel Lamb](https://foley.works/pixel-lamb "link to Pixel Lamb page") for *The Big Deal*- the 2023 manifestation of Wooly Fair. In reality, it didn't really serve as a stepping stone for the big one, but it did give us something fun to look at while we worked on Wooly Fair things. 
 
 ![Lil' Lamb guts](/images/lil-lamb-guts.jpg)
 
@@ -44,10 +44,11 @@ Congrats on your Lil' Lamb flocktion victory! You have great taste, and while I'
 
 ### A few Software Notes
 
-- Many software settings (GPIO pin, audio settings, etc) are accessible via the WLED UI, If you need to re-install or change the software running on the D1 Mini ESP32, all you need is a micro USB cord, a computer, and access to the back of the Lil' Lamb.
+- Many software settings (GPIO pin, audio settings, etc) are accessible via the WLED UI. If you need to re-install or change the software running on the D1 Mini ESP32, all you need is a micro USB cord, a computer, and access to the back of the Lil' Lamb.
 - There are a few websites where you can easily access various WLED software packages. I've found [this one](https://wled-install.github.io "Link to WLED Software installation website") to be the best, especially when it comes to sound-reactive offerings. You received your Lil' Lamb running the 'MoonMod' option at the bottom, for 4MB ESP32. 
 - Simply plug in the micro USB cord to your computer with the D1 Mini ESP32 attached to it. Select the software you want, and install. 
 - Once the installation is complete, you'll have the option to install the new software, or update the current WiFi settings on the current installation. Another option is to visit the URL of the device. Please note that accessing the UI for the WLED program via IP address is essentially the same as accessing it via the phone app. So if you prefer to not use apps and would like to access the controls via web page, simply bookmark the IP address. 
 - When you visit the device settings, either via phone app or IP address, you can adjust important settings, such as your Wifi credentials. All other settings should not be touched, unless for some reason you decided to hack the hardware. 
 - Unlikely scenario, but if you decide to edit the LED layout of the Lil' Lamb, you'll be able to find the custom json mapping [here](https://github.com/yelof3/lil-lamb "link to lil' lamb WLED .json map"), and can edit it accordingly. 
 
+Take good care of Lil' Lamb! He's fragile and should always be handled with care. If he needs to be repaired down the road, I'll be happy to help get him back to hypnotizing folks in little time. 
