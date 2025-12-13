@@ -94,6 +94,8 @@
   </url><url>
     <loc>http://localhost:1313/bicycle-frame-display/</loc>
   </url><url>
+    <loc>http://localhost:1313/burningman/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/diy-sonos/</loc>
@@ -102,7 +104,7 @@
   </url><url>
     <loc>http://localhost:1313/garage-parking-assistant/</loc>
   </url><url>
-    <loc>http://localhost:1313/electronics-led-matrix/</loc>
+    <loc>http://localhost:1313/led-matrix/</loc>
   </url><url>
     <loc>http://localhost:1313/led-table-lamp/</loc>
   </url><url>
@@ -111,6 +113,8 @@
     <loc>http://localhost:1313/music/</loc>
   </url><url>
     <loc>http://localhost:1313/office-led-matrix/</loc>
+  </url><url>
+    <loc>http://localhost:1313/photography/</loc>
   </url><url>
     <loc>http://localhost:1313/pi-hole/</loc>
   </url><url>
@@ -123,6 +127,8 @@
     <loc>http://localhost:1313/reads/</loc>
   </url><url>
     <loc>http://localhost:1313/wifi-repeater/</loc>
+  </url><url>
+    <loc>http://localhost:1313/photography/wooly-fair/</loc>
   </url><url>
     <loc>http://localhost:1313/wooly-fair/</loc>
   </url><url>

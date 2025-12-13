@@ -124,6 +124,8 @@ togglePreviousAndNextButtons = true
 
 
 
+
+
 socialIcons = [
   {name = "mastodon", url = "https://hachyderm.io/@yelof"},
   {name = "mixcloud", url = "https://www.mixcloud.com/misterboots/"},

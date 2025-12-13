@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h1>Photography</h1>
+  <p>
+Most of the pictures in these sets were taken on a Holga 120 toy camera, my Cannon Powershot SX10IS, or my Google Pixel 3a.  </p>
+</br>
+  <ul>
+{{ range .Pages }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a> 
+    </li>
+{{ end }}
+  </ul>
+{{ end }}
