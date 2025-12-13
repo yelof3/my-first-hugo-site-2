@@ -196,23 +196,27 @@
 <p>At some point after creating the physical layout I learned that I could create a custom map with .json. Once I figured that out, it started really looking nice. From there, I added an INMP441 I2S microphone, and to top it off, some hot glue to hold the electronics in place, and some faux fur fabric as the diffusion material.</p>
 <p>I&rsquo;m using a <a href="https://github.com/MoonModules/WLED-MM" title="link to WLED MoonModules Sound-Reactive software fork">sound-reactive fork</a> of the WLED software to control the Lil&rsquo; Lamb.</p>
 <p><img src="/images/lil-lamb-back.jpg" alt="Lil’ Lamb guts"></p>
-<p>This lil&rsquo; lamb will likely be auctioned off to some lucky bidder at an upcoming flocktion for <a href="https://foley.works/wooly-fair/" title="link to Wooly Fair page">Wooly Fair</a>. Below is a special section just for them.</p>
+<p>This lil&rsquo; lamb will be auctioned off to some lucky bidder at an upcoming flocktion for <a href="https://foley.works/wooly-fair/" title="link to Wooly Fair page">Wooly Fair</a>. Below is a special section just for them.</p>
 <div class="video-container">
   <video id="player" playsinline controls data-poster="/static/images/lil-lamb-back.jpg">
     <source src="/videos/lil-lamb3.mp4" type="video/mp4" />
   </video>
 </div>
-<h2 id="hello-new-lil-lamb-owner-">Hello, new Lil&rsquo; Lamb owner! 🐑</h2>
+<h2 id="hello-new-lil-lamb-owner">Hello, new Lil&rsquo; Lamb owner!</h2>
 <p>Congrats on your Lil&rsquo; Lamb flocktion victory! You have great taste, and while I&rsquo;ll miss him, I&rsquo;m thrilled this &lsquo;hypno-sheep&rsquo; will find a place in your home. Below are some notes on the project which should help if you ever need to make an adjustment to software.</p>
-<h3 id="a-few-notes">A Few Notes</h3>
+<h3 id="a-few-notes-on-setting-up-your-lil-lamb-">A Few Notes on Setting up Your Lil&rsquo; Lamb 🐑</h3>
 <ul>
-<li>While you can always acccess the LED controls for your Lil&rsquo; Lamb via IP address and a browser, I like the WLED phone app, and recommend that you use it. Once this is downloaded, you can search for your lil&rsquo; guy, and add him as a device in your app. From there on out, all you need to do to change LED patterns, brightness, etc is to open your WLED app and click on your installation. I&rsquo;ll be happy to help walk you through this important first step.</li>
-<li>If you need to make an adjustment to or re-installation of the software running on the D1 Mini ESP32, all you need is a micro USB cord, a computer, and access to the back of the Lil&rsquo; Lamb.</li>
+<li>Once you bring your Lil&rsquo; Lamb home, you&rsquo;ll need to add your WiFi network credentials to the software settings. First, plug in the Lil&rsquo; Lamb in it&rsquo;s new home, and as long as it&rsquo;s the only WLED installation on that network, you should be able to see a &lsquo;WLED-AP&rsquo; network in your phone or computer&rsquo;s network list. Once you select it, you&rsquo;ll be brought to the device&rsquo;s UI via IP address (make a note of this for possible use later) on your network, where you can change the WiFi credentials to the credentials of the new network. After you enter the new WiFi credentials and save, select the new WiFi network on your phone, and your Lil&rsquo; Lamb should now be accessable both via IP address, or with the WLED phone app using the <em>find device</em> feature (more on the phone app and this feature below).</li>
+<li>Want to take your Lil&rsquo; Lamb to a friend&rsquo;s house? No problem! Just use this same process when moving the Lil&rsquo; Lamb to a new WiFi network.</li>
+<li>While you can always acccess the LED controls for your Lil&rsquo; Lamb on a browser via its IP address, I like the WLED phone app, and recommend that you use it. Once this is downloaded, you can search for your lil&rsquo; guy, and add him as a device in your app. If your Lil&rsquo; Lamb isn&rsquo;t detected with the <em>find device</em> feature, you can add it via the IP address that you jotted down earlier. From there on out, all you need to do to change LED patterns, brightness, etc is to open your WLED app and click on your installation. I&rsquo;ll be happy to help walk you through these important first steps.</li>
+</ul>
+<h3 id="a-few-software-notes">A few Software Notes</h3>
+<ul>
+<li>Many software settings (GPIO pin, audio settings, etc) are accessible via the WLED UI, If you need to re-install or change the software running on the D1 Mini ESP32, all you need is a micro USB cord, a computer, and access to the back of the Lil&rsquo; Lamb.</li>
 <li>There are a few websites where you can easily access various WLED software packages. I&rsquo;ve found <a href="https://wled-install.github.io" title="Link to WLED Software installation website">this one</a> to be the best, especially when it comes to sound-reactive offerings. You received your Lil&rsquo; Lamb running the &lsquo;MoonMod&rsquo; option at the bottom, for 4MB ESP32.</li>
 <li>Simply plug in the micro USB cord to your computer with the D1 Mini ESP32 attached to it. Select the software you want, and install.</li>
 <li>Once the installation is complete, you&rsquo;ll have the option to install the new software, or update the current WiFi settings on the current installation. Another option is to visit the URL of the device. Please note that accessing the UI for the WLED program via IP address is essentially the same as accessing it via the phone app. So if you prefer to not use apps and would like to access the controls via web page, simply bookmark the IP address.</li>
 <li>When you visit the device settings, either via phone app or IP address, you can adjust important settings, such as your Wifi credentials. All other settings should not be touched, unless for some reason you decided to hack the hardware.</li>
-<li>If you want to bring your Lil&rsquo; Lamb to a new Wifi network, the process for updating the WiFi credentials is pretty easy. Plug in the Lil&rsquo; Lamb in it&rsquo;s new spot, and as long as it&rsquo;s the only WLED installation on that network, you should be able to see a &lsquo;WLED-AP&rsquo; network in your network list. Once you select it, you&rsquo;ll be brought to the interface where you can change the WiFi credentials to the credentials of the new network. After you enter them, select the new WiFi network on your phone, and your Lil&rsquo; Lamb should now be accessable both via IP address, or with the WLED phone app.</li>
 <li>Unlikely scenario, but if you decide to edit the LED layout of the Lil&rsquo; Lamb, you&rsquo;ll be able to find the custom json mapping <a href="https://github.com/yelof3/lil-lamb" title="link to lil&#39; lamb WLED .json map">here</a>, and can edit it accordingly.</li>
 </ul>
 
