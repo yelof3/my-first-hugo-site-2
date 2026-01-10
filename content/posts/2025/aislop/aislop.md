@@ -12,7 +12,11 @@ There are a lot of things to hate about AI- many more issues than I could possib
 
 ## AI Produces Slop
 In areas where it seems to be used most, AI produces slop. From imagry to video to music, and everything else in between, AI tools are great at churning out mediocre results that are devoid of the human element that made its learning material so great in the first place. 
+
 ![AI Slop](/images/AI-slop.jpg)
+
+So much so that the CEO of Microsoft is 
+[begging people](https://futurism.com/artificial-intelligence/microsoft-satya-nadella-ai-slop "link to article highlighting Microsoft CEO begging people to stop calling AI slop") to stop calling AI 'slop'. 
 
 ## AI Removes the Fun of Learning 
 I love the process of learning, and figuring things out. Half the time, that's why I get involved in certain hobbies; it's less about the end goal for me, and more about the process of learning and growing. AI tools, no matter what the flavor, seem to take away this important aspect, or at least severely compromise the efficacy of it. I have friends who code with Claude Code and create music 'productions' with the help of other AI applications, and I simply can't imagine going about thing as they are. I'd be giving away the main reason why I'm going about the thing in the first place.
