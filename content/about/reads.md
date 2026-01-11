@@ -47,5 +47,8 @@ Occasionally, I'll read a book. They're mostly about modern physics, although oc
 # 2021
 - *Carlo Rovelli: The Order of Time*
 - *Peter Woit: Not Even Wrong*
+- *Richard Panek: The Trouble with Gravity*
+- *Amir Aczel: Entanglement: The Greatest Mystery in Physics*
+
 
 
