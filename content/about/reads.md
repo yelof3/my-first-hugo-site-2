@@ -7,11 +7,15 @@ url: "/reads"
 
 Occasionally, I'll read a book. They're mostly about modern physics, although occasionally I'll read some other types of nonfiction, and on a blue moon, even some fiction. Here's a lsit of things I've been reading over the last several years. 
 
+## 2026
+
+- *Louisa Gilder: The Age of Entanglement*
+
 ## 2025
 
 - *Lee Smolin: Einstein's Unfinished Revolution*
 
-- *Aram Sinnreich, Jesse Gilbert: The Secret Life of Data: Navigating Hype and Uncertainty in the Age of Algorithmic Surveillance.*
+- *Aram Sinnreich, Jesse Gilbert: The Secret Life of Data*
 
 - *Lee Smolin: Three Roads to Quantum Gravity*
 
