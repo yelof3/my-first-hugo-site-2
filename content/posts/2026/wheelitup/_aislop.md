@@ -6,6 +6,7 @@ image: "/static/images/AI-slop.jpg"
 type: "post"
 tags: ["blog","AI","AI slop","LLM"]
 url: /wheel-it-up-make-it-glow
+draft: true
 ---
 
 There are a lot of things to hate about AI- many more issues than I could possibly cover in this one blog post. In no particular order, here are some of my particular gripes with AI, and why I think it should be regulated more closely. 
