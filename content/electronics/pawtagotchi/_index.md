@@ -1,6 +1,6 @@
 ---
 title: "Pwnagotchi"
-image: "/pawtagotchi.jpg"
+image: "/static/pwnagotchi.jpg"
 type: "page"
 url: /pwnagotchi
 ---
