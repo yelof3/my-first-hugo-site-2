@@ -13,7 +13,7 @@ url: /arduino-rgb-shield
 - *12v power supply*
 - *solder and wires*
 
-![rgb-led-shield](/arduinorgbledshield.jpg)
+![rgb-led-shield](arduinorgbledshield.jpg)
 
 
 This was my first significant pandemic, Arduino, and LED build.
