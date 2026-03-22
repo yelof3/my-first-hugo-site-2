@@ -11,6 +11,10 @@ Occasionally, I'll read a book. They're mostly about modern physics, although oc
 
 - *Louisa Gilder: The Age of Entanglement*
 
+- *David Grann: The Wager*
+
+- *Frank Wilczek: Fundamentals: 10 Keys to Reality*
+
 ## 2025
 
 - *Lee Smolin: Einstein's Unfinished Revolution*
