@@ -14,9 +14,9 @@ While my date and I didn’t work out, after attending a Wooly meeting or two, I
 
 It’s tough to describe the wonders of a Wooly Fair thing, but [the website](https://woolyfair.org "link to woolyfair.org") is a good place to go.
 
-I need to collect some images I’ve taken on various devices and cards, but this will be where I’ll share some pics and videos of the last three (and only three) Wooly Fair events I’ve been to and helped create. Thank you, Sam White. Dave Allyn, and all the other Woolies for letting me create a bit of magic with you.
+I need to collect some images I’ve taken on various devices and cards, but this will be where I’ll share some pics and videos of the last three (and only three) Wooly Fair events I’ve been to and helped create. Thank you, [Sam White](http://www.samowhite.com/ "Sam White website"), [Dave Allyn](http://www.davidallyn.net/ "Dave Allyn website"), and all the other Woolies for letting me create a bit of magic with you.
 
-
+![Pixel-lamb](calltoartists.jpg)
 
 
 
