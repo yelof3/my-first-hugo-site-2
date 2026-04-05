@@ -11,6 +11,10 @@ url: /pi-hole
 - *Raspberry Pi OS*
 - *Pi-hole software*
 
+You're probably asking yourself: "What's a pi-hole"? Here's a nice summary from pi-hole.net:
+
+>Pi-hole is a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.
+
 This Pi-Hole project can be done in as little as 15 minutes, or if you have an old Netgear router like I had, maybe a few days. It has no fancy appearance, but has a huge impact in the home. Not only will you rid yourself of most advertising on your network devices, but you’ll also be able to take a closer look at the details of your network traffic, and speed up your overall network as well!
 
 ![pi-hole](pi-hole.jpg)

@@ -15,6 +15,8 @@ Occasionally, I'll read a book. They're mostly about modern physics, although oc
 
 - *Frank Wilczek: Fundamentals: 10 Keys to Reality*
 
+- *Brian Merchant: Blood in the Machine*
+
 ## 2025
 
 - *Lee Smolin: Einstein's Unfinished Revolution*
