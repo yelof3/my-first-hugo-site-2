@@ -8,7 +8,7 @@ tags: ["blog","small web","hugo","gokarna","fediverse","blogging"]
 url: /small-web
 ---
 
-As mentioned in my about page, this site was born from the ashes of my Wordpress website. I've been slowly editing it and adding additional content over the last six months or so, and it's been a joy.
+As mentioned in my [about](https://foley.works/office-led-matrix/ "link to about page") page, this site was born from the ashes of my Wordpress website. I've been slowly editing it and adding additional content over the last six months or so, and it's been a joy.
 
 After a few weeks under the belt, I felt confident enough in the build to share the news of the new static site on my Mastodon account. Someone replied with "welcome to the small web", and I've thought about that greeting on multiple occasions. Not so much the greeting, but the term, 'small web'. Sounded like a nice place to be! 
 

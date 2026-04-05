@@ -9,7 +9,7 @@ type: "page"
 - *Amateur Music Producer*
 - *Radio Producer*
 - *Digital Director*
-- *Privacy and Information Security Advovate*
+- *Privacy and Information Security Advocate*
 - *DJ*
 
 ## Foley.works

@@ -29,6 +29,8 @@ As a bonus, I tried working that HifiBerry DAC+ Zero on the 4B, and it still did
 
 Speaking of Volumio; this software is the heart of the DIY Sonos. Besides having the ability to access my local digital library, I’ve also hooked up Volumio to Mixclound, Soundcloud, Bandcamp, and all of my beloved freeform radio stations across the lands. 
 
+One improvement I'm contemplating is setting up an OLED display to be embedded in the project box, so friends can see what's currently playing.
+
 I’m beyond happy with the end result of this project, and recommend it to any DIYer who has lots of great music scattered on various hard drives. 
 
 ![Volumio](/volumio.jpg)
