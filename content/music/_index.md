@@ -4,12 +4,24 @@ image: "/path/to/image.png"
 type: "page"
 ---
 
+I'm pretty good at mixing uinique music together, and did so for many years on public freeform radio. As a result of that, I met and became friends with a handful of amazing producers and/or label owners who gave me a shot at a remix or two, where I found out I'm definitely an amateur remixer/producer. 
+
+Here's a sample of some of my musical creations. 
+
 ## Mixes
 [Wondermachine Wondercast 006](https://soundcloud.com/wondermachine-music/wondercast006-wanderlust-by-john-foley/ "Wondermachine Wondercast 006")
 
 [Providance Guest Mix](https://www.mixcloud.com/Quinntronix/providance-guest-mix-dj-john-foley/wondercast006-wanderlust-by-john-foley/ "Providance Guest Mix for Radio")
 
 [ElevenEleven :: 33 Misterboots](https://www.mixcloud.com/misterboots/eleveneleven-33-misterboots/ "ElevenEleven :: 33 Misterboots")
+
+[The Fieldhouse Radio Show: 4.2.14: Spring, Houseplants, Rhode Island](https://soundcloud.com/thefieldhouse/the-fieldhouse-radio-show-4-2 "The Fieldhouse Radio Show: 4.2.14: Spring, Houseplants, Rhode Island")
+
+[The Fieldhouse Radio Show: 11.1.13: Down](https://www.mixcloud.com/misterboots/the-fieldhouse-radio-show-11113-down/ "The Fieldhouse Radio Show: 11.1.13: Down")
+
+[The Fieldhouse Radio Show 5.17.16: On The Mend](https://soundcloud.com/thefieldhouse/the-fieldhouse-radio-show-51716-on-the-mend "The Fieldhouse Radio Show 5.17.16: On The Mend")
+
+[The Fieldhouse Radio Show: 6.28.16: Deap End](https://soundcloud.com/thefieldhouse/the-fieldhouse-radio-show-62816-deap-end "The Fieldhouse Radio Show: 6.28.16: Deap End")
 
 
 ## Remixes
