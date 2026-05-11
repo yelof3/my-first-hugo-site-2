@@ -30,6 +30,9 @@ that 4.4% of total energy consumed in the US in 2023 was by data centers. By 202
   
 [This article](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/ "link to MIT Technology Review article") in the MIT Technology Review does a good job of providing an overlay of the AI energy cosumption issue. 
 
+## It's Killing the Internet We Love
+In plain terms, these companies are scraping nearly the entire internet, and the way that 
+
 
 ## The Rush to add AI to Everything
 I work in tech, and it seems that every product or tool I use on a regular basis has been shoving some sort of quick-to-market AI marekting slop about their new shiney AI tool, just trying to beat out their market competitors. I'm *so* sick of it. It's affecting lots of industries, of course, but from my perspective, no matter its application, it seems the negatives are greater than the positives. And given the massive energy consumption needed currently, the the expoential amount needed in the coming years, I can't imagine ever seeing a scenario where that isn't the case. 
