@@ -22,7 +22,7 @@ My boycott of Amazon is roughly 15 years old, and going strong. If I need to ord
 
 Personally, I don’t understand the big pull of the masses to Amazon. From what I’ve gathered, the main reason is convenience and speed of delivery/Prime. 
 
-# How to Fuck Amazon and Jeff Bezos
+## How to Fuck Amazon and Jeff Bezos
 
 It’s pretty simple! Here are some simple steps you can take:
 
