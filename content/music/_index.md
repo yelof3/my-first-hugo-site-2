@@ -11,7 +11,7 @@ Here's a sample of some of my musical creations.
 ## Mixes
 [Wondermachine Wondercast 006](https://soundcloud.com/wondermachine-music/wondercast006-wanderlust-by-john-foley/ "Wondermachine Wondercast 006")
 
-[Providance Guest Mix](https://www.mixcloud.com/Quinntronix/providance-guest-mix-dj-john-foley/wondercast006-wanderlust-by-john-foley/ "Providance Guest Mix for Radio")
+[Providance Guest Mix](https://www.mixcloud.com/Quinntronix/providance-guest-mix-dj-john-foley/ "Providance Guest Mix for Radio")
 
 [ElevenEleven :: 33 Misterboots](https://www.mixcloud.com/misterboots/eleveneleven-33-misterboots/ "ElevenEleven :: 33 Misterboots")
 
