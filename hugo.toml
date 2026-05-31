@@ -63,7 +63,7 @@ title = "foley.works"
     weight = 5
 
   [[menu.main]]
-    name = "Tags"
+    name = "Tags/Links"
     url = "/tags/"
     weight = 7
     

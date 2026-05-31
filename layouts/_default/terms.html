@@ -1,0 +1,47 @@
+{{ define "main" }}
+<div class="container tags-list">
+
+    <h1 class="list-title">{{ i18n "tags" }}</h1>
+    {{if eq (len $.Site.Taxonomies.tags) 0}}
+        {{ i18n "nothing" }}
+    {{else}}
+    <ul class="post-tags">
+        {{ range $.Site.Taxonomies.tags.ByCount }}
+        <li class="post-tag">
+            <a href="{{ .Page.RelPermalink }}">
+                <div class="tag-name">{{ .Name }}</div>
+                <div class="tag-posts-count">{{ .Count }}</div>
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+    <br>
+    <h2>Elsewhere</h2>
+    With the mass destruction of the open internet and search, 
+    I thought it would be a good move to create a blogroll/links
+    section, where I can share friend's blogs/sites, as well as 
+    other sites of interest. It's important that we keep some sort 
+    of network together.<br><br>
+    This section is a work in progress.
+    <h3>Friends with Websites</h3>
+    <a href="http://www.davidallyn.net/">Dave Allyn</a><br>
+    <a href="http://www.djolive.com">DJ Olive</a><br>
+    <a href="http://www.ronpassaromusic.com/">Ron Passaro</a><br>
+    <a href="http://www.samowhite.com/">Sam White</a>
+    <h3>Labels/Music/Radio</h3>
+    <a href="https://www.anticipaterecordings.com">Anticipate Recordings</a><br>
+    <a href="https://www.discrepant.net">Discrepant</a><br>
+    <a href="https://www.nts.live">NTS</a><br>
+    <a href="https://www.undomondo.com">Undomondo</a><br>
+    <a href="https://www.wfmu.org">WFMU</a><br>
+    
+
+    
+    
+    {{ end }}
+
+</div>
+{{ end }}
+
+
+
