@@ -23,4 +23,3 @@ After a quick adjustment on the config file to adjust the Waveshare version, I w
 Pawtagotchi has surpassed 600 pwns. Another win for urban living. Here you can see the case I printed for my pwnagotchi, made with plant-based eco resin from Anycubic.
 
 ![pawtagotchi](/pawtagotchi.jpg)
-test!!
