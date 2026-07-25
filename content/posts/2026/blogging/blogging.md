@@ -1,11 +1,11 @@
 ---
-title: "Stop Shopping"
-date: 2026-07-21
-description: "Stop shopping. Avoid the Shopocalypse. Changealujah!"
+title: "Blogging"
+date: 2026-07-23
+description: "Exploring music was more fun before Facebook and Twitter."
 image: "/static/images/revbilly.jpg"
 type: "post"
-tags: ["capitalism","consumerism", "blog"]
-url: /stop-shopping
+tags: ["capitalism","consumerism"]
+url: /blogging
 draft: true
 ---
 

@@ -18,7 +18,16 @@ This build was based off of this [Ty Palowski’s project](https://www.youtube.c
 
 # Garage Parking Assistant Updates
 
-Mid 2024: After some fishing around online, I met Hans from Germany, who shared with me his updated code for the garage parking assistant that contained the solution for the red light not turning off once the vehicle was parked. Thanks Hans!
+Mid 2024: After some fishing around online, I met Hans from Germany, who shared with me his updated code for the garage parking assistant. Lucky for me, his modified code contained the solution for the red light not turning off once the vehicle was parked. Additionally, Hans's improved code allows for: 
+
+- *4th level added (critical after red light), all three LEDs are flashing, you should never pass this line with your car*
+- *Sleep mode for OLED display*
+- *display CPU temperature every 5 seconds on OLED*
+- *display program version and build time*
+- *display of system uptime, display sleep time and display wake time*
+
+
+What a solid mod. Thanks Hans!
 
 He asked me for my help publishing the code online, which can be found at this [Github repo.](https://github.com/yelof3/ParkingGarageAssistant "garage-parking-assistant")
 
