@@ -34,4 +34,4 @@ He asked me for my help publishing the code online, which can be found at this [
 
 Here’s a view of the schematic I edited for the version. 
 
-![parking-garage-assistant](/garage-parking-assistant-diagram2.jpg)
+![parking-garage-assistant](/images/parkinggarageassistant.jpg)
