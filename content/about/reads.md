@@ -17,6 +17,10 @@ Occasionally, I'll read a book. They're mostly about modern physics, although oc
 
 - *Brian Merchant: Blood in the Machine*
 
+- *Mustafa Suleyman: The Coming Wave*
+
+- *Edward S. Herman and Noam Chomsky: Manufacturing Consent*
+
 ## 2025
 
 - *Lee Smolin: Einstein's Unfinished Revolution*
