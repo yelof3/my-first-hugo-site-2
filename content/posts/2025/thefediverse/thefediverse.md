@@ -17,12 +17,12 @@ It has the big boys scared, and for good reason.
 
 ![A phone displaying Fediverse apps](/posts/thefediverse/fediverse.jpg)
 
-From fediverse.to: 
-> Each fediverse instance is managed by a human admin. You can find fediverse instances dedicated to art, music, technology, culture, or politics.
+From [fediverse.info](https://fediverse.info "fediverse.info website"): 
+> This is the fediverse: social media run by the people on it. Thousands of independent apps and communities that all talk to each other. Corporations can join the network. They can't own it.
 
 It has networks that are similar to fascist-owned and controlled corporations like Facebook/Meta, X, etc, but they’re much, much better. To start, it has no advertising or feed algorithms, and is filled with lots of kind, smart folks from all over the world. And of course, most importantly, not run by evil companies.
 
-In August of 2023 I joined one of those social networks, called [Mastodon](https://joinmastodon.org "joinmastodon.org]"), and I haven’t looked back since. There are often many servers or ‘instances’ within a network, and I joined [Hachyderm](https://hachyderm.io "hachyderm.io]"), which has a tech industry theme. I’m in the presence of smart, funny, highly skilled folks, and I couldn’t be happier with my experience there so far. 
+In August of 2023 I joined one of those social networks, called [Mastodon](https://joinmastodon.org "joinmastodon.org]"), and I haven’t looked back since. There are often many servers or ‘instances’ within a network, and I joined [Hachyderm](https://hachyderm.io "hachyderm.io]"), which has a tech industry theme. I’m in the presence of extremely smart, funny, highly skilled folks, and I couldn’t be happier with my experience there so far. 
 
 ![Hachyderm logo](/posts/thefediverse/hachyderm-logo.png)
 
