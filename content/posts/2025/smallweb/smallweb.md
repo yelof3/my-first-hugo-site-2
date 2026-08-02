@@ -2,7 +2,6 @@
 title: "The Small Web"
 date: 2025-11-19
 description: "I was welcomed to the 'small web' recently, which felt nice and led to some thoughts."
-image: "/static/images/AI-slop.jpg"
 type: "post"
 tags: ["blog","small web","hugo","gokarna","fediverse","blogging"]
 url: /small-web

@@ -2,7 +2,7 @@
 title: "AI Slop"
 date: 2025-10-24
 description: "I'm so sick of AI offerings that I had to rant away on a blog post about it."
-image: "/static/images/AI-slop.jpg"
+image: "/images/AI-slop.jpg"
 type: "post"
 tags: ["blog","AI","AI slop","LLM"]
 url: /ai-slop

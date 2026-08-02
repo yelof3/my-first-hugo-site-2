@@ -2,7 +2,7 @@
 title: "Three Nights of Lights"
 date: 2023-12-01
 description: "A wonderful Winter event put on by Avenue Concept"
-image: "/troublewithmatrix.jpg"
+image: "/images/troublewithmatrix.jpg"
 type: "post"
 tags: ["blog","Providence"]
 url: /three-nights-of-lights
@@ -14,7 +14,7 @@ We were at 35 Weybosset Street on the evening of 12/1 and on Matthewson Street o
 
 Lots of amazing art, performance, and smiles on both nights. And of course, plenty of lights!
 
-![Person in front of the Pixel Lamb](/posts/2023/threenightsoflights/troublewithmatrix.jpg)
+![Person in front of the Pixel Lamb](/images/troublewithmatrix.jpg)
 
-![Person in front of the Pixel Lamb](/posts/2023/threenightsoflights/bignazoinfrontofwallart.jpg)
+![Person in front of the Pixel Lamb](/images/bignazoinfrontofwallart.jpg)
 

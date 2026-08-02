@@ -2,7 +2,7 @@
 title: "Degoogling"
 date: 2024-07-05
 description: "I've been degoogling! Or, replacing Google apps with alternatives. Here's a summary of changes I've made so far."
-image: "google-we-own-your-identity.jpg"
+image: "/images/google-we-own-your-identity.jpg"
 type: "post"
 tags: ["blog"]
 url: /degoogling 
@@ -24,7 +24,7 @@ I was invited to my first gmail address back in 2002 or 2003 (yes, you had to be
 - *Google My Business*
 - *Google etc*
 
-![Degoogling](/posts/degoogling/google-we-own-your-identity.jpg)
+![Degoogling](/images/google-we-own-your-identity.jpg)
 
 That’s a whole lot of Google, and doesn’t even include the long list of Google products I use for work every day; Analytics, Google Tag Manager, Cloud, and so on.
  

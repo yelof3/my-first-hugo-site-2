@@ -2,7 +2,7 @@
 title: "BSR Live"
 date: 2024-02-03
 description: "With bittersweet emotions, after 12 years of DJing/programming, I recently said goodbye to BSR Live."
-image: "bsrlive-square.jpg"
+image: "/images/bsrlive-square.jpg"
 type: "post"
 tags: ["blog"]
 url: /bsr-live
@@ -14,7 +14,7 @@ The BSR that I joined in 2010 was a freeform radio force to be reckoned with. We
 
 While the diversity of programming was top notch, what really made those first several years of my BSR experience so amazing was a true community vibe: the ability of the students to work alongside their community member peers to accomplish real, significant change in the station.
 
-![bsr-live](/posts/bsrlive/bsrlive-square.jpg)
+![bsr-live](/images/bsrlive-square.jpg)
 
 Unfortunately, as the years passed by, this synergy slowly eroded away with the hand of a few consecutive student leadership teams, to the point where there are now just a small handful of students responsible for every aspect of the station.
 

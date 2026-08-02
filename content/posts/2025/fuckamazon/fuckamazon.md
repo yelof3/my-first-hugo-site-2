@@ -2,7 +2,7 @@
 title: "Fuck Amazon"
 date: 2025-03-19
 description: "Fuck Amazon. Seriously. If you must buy something online, buy it elsewhere. It's really quite easy to do!"
-image: "/fuckamazon.jpg"
+image: "/images/fuckamazon.jpg"
 type: "post"
 tags: ["blog","fuck amazon","amazon"]
 url: /fuck-amazon
@@ -16,7 +16,7 @@ Ethics aside, I just hate seeing one person or one company with the majority of 
 
 But rather than rant about all that crap, I’m writing this post to remind people of just how easy it is to simply not use Amazon, ever. 
 
-![Fuck Amazon](/posts/fuckamazon/fuckamazon.jpg)
+![Fuck Amazon](/images/fuckamazon.jpg)
 
 My boycott of Amazon is roughly 15 years old, and going strong. If I need to order some random doo-dad or electronics piece online, my main go-to websites for convenience has been eBay. I’ll also try to use vendors like Digikey and Mouser for bulk electronics orders. After all these years of buying things on eBay, I don’t have a single complaint. Nearly every transaction has gone just as expected, and I can only remember a few occasions where I received something that was broken, or didn’t receive anything at all. In those situations, a solution was quickly reached, as you’d expect with any erroneous order on any other platform.
 
