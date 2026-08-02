@@ -2,7 +2,7 @@
 title: "Wheel it up and Make it Glow"
 date: 2026-01-17
 description: "A quick post on a workshop I'm co-leading this Spring at The Steel Yard."
-image: "/static/images/davecart.jpg"
+image: "/images/davecart.jpg"
 type: "post"
 tags: ["blog","LED","Providence"]
 url: /wheel-it-up-make-it-glow
