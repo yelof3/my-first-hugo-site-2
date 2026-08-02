@@ -1,6 +1,6 @@
 ---
 title: "Bicycle Frame Display"
-image: "bicycleframedisplay.jpg"
+image: "images/bicycleframedisplay.jpg"
 type: "page"
 url: /bicycle-frame-display 
 ---

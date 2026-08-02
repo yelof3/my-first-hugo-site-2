@@ -1,6 +1,6 @@
 ---
 title: "Arduino RGB LED Shield"
-image: "/arduinorgbledshield.jpg"
+image: "/images/arduinorgbledshield.jpg"
 type: "page"
 url: /arduino-rgb-shield
 

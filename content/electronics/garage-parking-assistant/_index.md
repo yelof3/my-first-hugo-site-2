@@ -1,6 +1,6 @@
 ---
 title: "Garage Parking Assistant"
-image: "/garage-parking-assistant-diagram2.jpg"
+image: "/images/garage-parking-assistant-diagram2.jpg"
 type: "page"
 url: /garage-parking-assistant
 ---

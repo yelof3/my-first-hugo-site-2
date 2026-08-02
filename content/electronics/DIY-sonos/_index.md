@@ -1,6 +1,6 @@
 ---
 title: "DIY Sonos"
-image: "/diy-sonos.jpg"
+image: "/images/diy-sonos.jpg"
 type: "page"
 url: /diy-sonos 
 ---

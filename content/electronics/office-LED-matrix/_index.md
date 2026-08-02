@@ -1,6 +1,6 @@
 ---
 title: "Office LED Matrix"
-image: "/officeledmatrix.jpg"
+image: "/images/officeledmatrix.jpg"
 type: "page"
 url: /office-led-matrix
 ---

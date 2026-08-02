@@ -1,6 +1,6 @@
 ---
 title: "LED Table Lamp"
-image: "/LEDtablelamp.jpg"
+image: "/images/LEDtablelamp.jpg"
 type: "page"
 url: /led-table-lamp
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Pwnagotchi"
-image: "/static/pwnagotchi.jpg"
+image: "/images/pwnagotchi.jpg"
 type: "page"
 url: /pwnagotchi
 ---
@@ -22,4 +22,4 @@ After a quick adjustment on the config file to adjust the Waveshare version, I w
 # Update
 Pawtagotchi has surpassed 600 pwns. Another win for urban living. Here you can see the case I printed for my pwnagotchi, made with plant-based eco resin from Anycubic.
 
-![pawtagotchi](/pawtagotchi.jpg)
+![pawtagotchi](/images/pwnagotchi.jpg)

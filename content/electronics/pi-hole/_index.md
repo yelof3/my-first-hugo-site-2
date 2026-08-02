@@ -1,6 +1,6 @@
 ---
 title: "Pi-Hole"
-image: "/pi-hole.jpg"
+image: "/images/pi-hole.jpg"
 type: "page"
 url: /pi-hole
 ---
@@ -17,7 +17,7 @@ You're probably asking yourself: "What's a pi-hole"? Here's a nice summary from 
 
 This Pi-Hole project can be done in as little as 15 minutes, or if you have an old Netgear router like I had, maybe a few days. It has no fancy appearance, but has a huge impact in the home. Not only will you rid yourself of most advertising on your network devices, but you’ll also be able to take a closer look at the details of your network traffic, and speed up your overall network as well!
 
-![pi-hole](pi-hole.jpg)
+![pi-hole](/images/pi-hole.jpg)
 
 The steps are fairly straight forward. 
 
@@ -33,7 +33,8 @@ The router that I had been using for the last 12 years or so is the Netgear 450N
 
 Off I went to Craigslist/Facebook Marketplace, and found myself a nice little Allesis SBG10 Surfboard router/modem. Changing settings on the Allesis has been a breeze, and since implementing that into my network and placing the correct DNS settings on the admin page I’ve had great luck with the Pi-Hole!
 
-![pi-hole](/pi-hole-admin.png)
+<img src="/images/pi-hole-admin.png" alt="image of the pi-hole dashboard" class="no-radius">
+
 
 I must say, there was a feeling of power after watching a whole movie free of ads on Tubi, a movie platform that is laden with ads.
 
