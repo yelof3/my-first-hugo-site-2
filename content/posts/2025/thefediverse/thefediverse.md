@@ -24,8 +24,7 @@ It has networks that are similar to fascist-owned and controlled corporations li
 
 In August of 2023 I joined one of those social networks, called [Mastodon](https://joinmastodon.org "joinmastodon.org]"), and I haven’t looked back since. There are often many servers or ‘instances’ within a network, and I joined [Hachyderm](https://hachyderm.io "hachyderm.io]"), which has a tech industry theme. I’m in the presence of extremely smart, funny, highly skilled folks, and I couldn’t be happier with my experience there so far. 
 
-![Hachyderm logo](/images/hachyderm-logo.png)
-
+<img src="/images/hachyderm-logo.png" alt="Diagram" class="no-radius">
 
 There are of course things that I will miss about Twitter, such as my network of super local bike friends, the international network of progressives, and the ability to reach out and actually sometimes communicate with world famous physicists, musicians, and other people I admire. 
 
@@ -39,4 +38,5 @@ Overall, it’s safe to say that I’m making moves to put all corporate, for pr
 
 Onward! 
 
-![Global Switch Day graphic](/images/global-switch-day.png)
+<img src="/images/global-switch-day.png" alt="Global Switch Day Diagram" class="no-radius">
+
