@@ -10,7 +10,7 @@ url: /led-table-lamp
 - *Box store table lamp*
 - *Wooden Dowl*
 
-![LED-table-lamp](/LEDtablelamp.jpg)
+![LED-table-lamp](/images/LEDtablelamp.jpg)
 
 
 This was one of my quickest LED projects yet. One day I had a desire to deconstruct a light to retrofit with LEDs. After perusing the local Craigslist board, I wasn’t able to find any decent light hosts, so I just went down to the box store and grabbed a relatively cheap table lamp to improve. 
