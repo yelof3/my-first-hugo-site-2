@@ -14,7 +14,7 @@ url: /office-led-matrix
 - *Wire and solder*
 - *1/8″ Frosted plexiglass diffusion panel*
 
-![office-LED-matrix](/officeLEDmatrix.jpg)
+![office-LED-matrix](/images/officeLEDmatrix.jpg)
 
 
 

@@ -18,7 +18,7 @@ After waiting a  week or two for my parts to trickle in via the mail, I got ever
 
 This DIY Sonos project was one of my longer projects, probably clocking in at over 50 hours- 45 of which were attempting to get the Hifiberry DAC+ Zero to work in the system. Sadly, after countless combinations of settings and code variations, I decided to call that particular effort a failure. Thankfully, the music still sounds great!
 
-![DIY-sonos](/DIY-sonos.jpg)
+![DIY-sonos](/images/DIY-sonos.jpg)
 
 # DIY Sonos Raspbery Pi 4B Upgrade
 I found myself with a freed up Raspberry Pi 4B, so I decided to upgrade the DIY Sonos from the Pi Zero 2W to the Pi 4B. 
@@ -33,4 +33,4 @@ One improvement I'm contemplating is setting up an OLED display to be embedded i
 
 I’m beyond happy with the end result of this project, and recommend it to any DIYer who has lots of great music scattered on various hard drives. 
 
-![Volumio](/volumio.jpg)
+![Volumio](/images/volumio.jpg)
