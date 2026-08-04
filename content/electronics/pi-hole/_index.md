@@ -24,7 +24,7 @@ The steps are fairly straight forward.
 - Install Raspberry Pi OS (or your OS of choice) on the Raspberry Pi. I used the 32-bit version.
 - SSH into the Pi, run update and upgrade
 - Install Pi-Hole with the following command:
-- curl -sSL https://install.pi-hole.net | bash
+- ```curl -sSL https://install.pi-hole.net | bash```
 - From there, answer a few easy questions, and you’ll then have Pi-Hole installed on your Pi. Visit the Pi-Hole website for official docs, links, etc.
 - Decide the best method for incorporating your Pi-Hole device into your network as the DNS server. This doc from Pi-Hole covers the options nicely. 
 
