@@ -4,7 +4,6 @@ date: 2025-02-05
 description: "The Fediverse - the way social media should be."
 image: "/images/fediverse.jpg"
 type: "post"
-tags: ["blog"]
 url: /the-fediverse
 tags: ["blog","small web","fediverse","mastodon","pixelfed"]
 ---

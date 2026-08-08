@@ -4,7 +4,7 @@ date: 2024-02-03
 description: "With bittersweet emotions, after 12 years of DJing/programming, I recently said goodbye to BSR Live."
 image: "/images/bsrlive-square.jpg"
 type: "post"
-tags: ["blog"]
+tags: ["blog","providence"]
 url: /bsr-live
 ---
 
