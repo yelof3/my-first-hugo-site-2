@@ -134,7 +134,8 @@ socialIcons = [
   {name = "codepen (1)", url = "https://codepen.io/yelof"},
   {name = "discogs", url = "https://www.discogs.com/artist/4131888-John-Foley-5"},
   {name = "pixelfed", url = "https://pxlmo.com/i/web/profile/639315617087045662"},
-  {name = "peertube", url = "https://makertube.net/a/yelof/video-channels"}
+  {name = "rss", url = "https://foley.works/posts/index.xml"}
+
 
  ]
 
