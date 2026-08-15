@@ -10,6 +10,7 @@ draft: true
 - *Raspberry Pi Zero 2W*
 - *Waveshare 2.13inch e-Paper Hat E-Ink Display*
 - *Micro SD Card*
+- *3D Printed Case*
 
 I found myself with (another) extra Pi Zero 2W, so why not build a cute lil’ wifi network handshake tool called the [Pwnagotchi](https://pwnagotchi.ai "link to pwnagotchi.ai"). All in all, apart from time taken to order and receive parts in the mail, this was a pretty quick project to get up and running. 
 

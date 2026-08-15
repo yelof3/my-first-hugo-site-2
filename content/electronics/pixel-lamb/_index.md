@@ -35,7 +35,7 @@ I made several LED matrices, with this one being the largest so far. I’m curre
 With the help of some good friends, Pixel Lamb production commenced in May of 2023 at Nicholson File, originally as a large wooden lattice structure. Unfortunately that design had to be abandoned and burned in the burn barrel. Here are the guts of the design we ended up going with.
 
 <div class="video-container">
-  <video id="player" playsinline controls data-poster="/static/images/pixel-lamb-crowd.jpg">
+  <video id="player" autoplay muted playsinline data-poster="/static/images/pixel-lamb-crowd.jpg">
     <source src="/videos/gregvideo.mp4" type="video/mp4" />
   </video>
 </div>
@@ -48,19 +48,19 @@ Read more about Wooly Fair over at [Motif](https://motifri.com/the-big-deal-the-
 
 
 <div class="video-container">
-  <video id="player" playsinline controls data-poster="/static/images/pixel-lamb-crowd.jpg">
+  <video id="player" autoplay muted playsinline data-poster="/static/images/pixel-lamb-crowd.jpg">
     <source src="/videos/pixel-lamb.mp4" type="video/mp4" />
   </video>
 </div>
 </br>
 <div class="video-container">
-  <video id="player" playsinline controls data-poster="/static/images/pixel-lamb-crowd.jpg">
+  <video id="player" autoplay muted loop playsinline data-poster="/static/images/pixel-lamb-crowd.jpg">
     <source src="/videos/pixel-lamb2.mp4" type="video/mp4" />
   </video>
 </div>
 </br>
 <div class="video-container">
-  <video id="player" playsinline controls data-poster="/static/images/pixel-lamb-crowd.jpg">
+  <video id="player" autoplay muted playsinline data-poster="/static/images/pixel-lamb-crowd.jpg">
     <source src="/videos/pixel-lamb3.mp4" type="video/mp4" />
   </video>
 </div>
