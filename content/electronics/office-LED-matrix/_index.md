@@ -32,3 +32,9 @@ I started out with the 'standard' WLED sound reactive version. It worked well en
 
 I did some searching, and saw a post indicating that the [WLED MoonModules](https://mm.kno.wled.ge "link to WLED MoonModules fork page") fork might be better with non-square matricies. I gave it an upload, reset my audio and data pin settings, as well as matrix dimensions, etc, and I was off and running. Overall, this sound reactive fork has been the best performer for my super-rectangle matrix, and I'm happy I spent a bit of time looking into another fork. 
 
+<div class="video-container">
+  <video id="player" autoplay muted loop playsinline data-poster="/static/images/officeLEDmatrix.jpg">
+    <source src="/videos/officematrix.mp4" type="video/mp4" />
+  </video>
+</div>
+
