@@ -16,21 +16,21 @@ url: /lil-lamb
 
 I made this lil' lamb in preparation of the design and creation of the [Pixel Lamb](https://foley.works/pixel-lamb "link to Pixel Lamb page") for *The Big Deal*- the 2023 manifestation of Wooly Fair. In reality, it didn't really serve as a stepping stone for the big one, but it did give us something fun to look at while we worked on Wooly Fair things. 
 
-![Lil' Lamb guts](/images/lil-lamb-guts.jpg)
+<div class="video-container">
+  <video id="player" autoplay muted loop playsinline data-poster="/static/images/lil-lamb-back.jpg">
+    <source src="/videos/lil-lamb3.mp4" type="video/mp4" />
+  </video>
+</div>
 
 At some point after creating the physical layout I learned that I could create a custom map with .json. Once I figured that out, it started really looking nice. From there, I added an INMP441 I2S microphone, and to top it off, some hot glue to hold the electronics in place, and some faux fur fabric as the diffusion material.
 
 I'm using a [sound-reactive fork](https://github.com/MoonModules/WLED-MM "link to WLED MoonModules Sound-Reactive software fork") of the WLED software to control the Lil' Lamb. 
 
-![Lil' Lamb guts](/images/lil-lamb-back.jpg)
+![Lil' Lamb guts](/images/lil-lamb-guts.jpg)
 
 This lil' lamb will be auctioned off to some lucky bidder at an upcoming flocktion for [Wooly Fair](https://foley.works/wooly-fair/ "link to Wooly Fair page"). Below is a special section just for them. 
 
-<div class="video-container">
-  <video id="player" playsinline controls data-poster="/static/images/lil-lamb-back.jpg">
-    <source src="/videos/lil-lamb3.mp4" type="video/mp4" />
-  </video>
-</div>
+![Lil' Lamb guts](/images/lil-lamb-back.jpg)
 
 ## Hello, new Lil' Lamb owner! 
 

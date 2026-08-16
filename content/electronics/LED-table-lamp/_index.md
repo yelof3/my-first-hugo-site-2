@@ -17,3 +17,8 @@ This was one of my quickest LED projects yet. One day I had a desire to deconstr
 
 In it’s second version, I incorporated the open source WLED program to control the light display with my phone. 
 
+<div class="video-container">
+  <video id="player" autoplay muted loop playsinline data-poster="/static/images/LEDtablelamp.jpg">
+    <source src="/videos/pwnagotchi-blink.mp4" type="video/mp4" />
+  </video>
+</div>
