@@ -12,6 +12,12 @@ url: /garage-parking-assistant
 - *I2C Serial Interface Module Port* 
 - *Ultrasonic Sensor – HC-SR04*
 
+<div class="video-container">
+  <video id="player" autoplay muted loop playsinline data-poster="/static/images/parkinggarageassistant.jpg">
+    <source src="/videos/garage-parking-assistant.mp4" type="video/mp4" />
+  </video>
+</div>
+
 This garage parking assistant was a practical gag gift that I made for my Dad. He already had a perfectly accurate, low tech solution for the problem of how to determine when to stop pulling into the garage. But with time on my hands, I figured why not fix something that wasn’t broken! 
 
 This build was based off of this [Ty Palowski’s project](https://www.youtube.com/watch?v=pScwL8NoMn4 "link to Ty Palowski’s project") , and overall, it went great! I used an online 3D print shop for the case, and that whole process was very smooth overall. The only issue was that the code did not allow for the red light to turn off once the vehicle parked.
