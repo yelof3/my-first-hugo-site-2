@@ -1,27 +1,19 @@
 ---
 title: "Bjorn"
-image: "/images/pwnagotchi.jpg"
+image: "/images/bjorncyberviking.png"
 type: "page"
-description: "I'm so sick of AI offerings that I had to rant away on a blog post about it."
+description: "I recently installed Bjorn on an extra Pi Zero W I had lying around. Here's what happened."
 url: /bjorn
-draft: true
 ---
 
-- *Raspberry Pi Zero 2W*
-- *Waveshare 2.13inch e-Paper Hat E-Ink Display*
+- *Raspberry Pi Zero W*
+- *Waveshare 2.13inch e-Paper Hat E-Ink Display, V4*
 - *Micro SD Card*
 - *3D Printed Case*
 
-I found myself with (another) extra Pi Zero 2W, so why not build a cute lil’ wifi network handshake tool called the [Pwnagotchi](https://pwnagotchi.ai "link to pwnagotchi.ai"). All in all, apart from time taken to order and receive parts in the mail, this was a pretty quick project to get up and running. 
+I found myself with (another) extra Pi Zero W, so why not build a cute lil’ pentesting tool called [Bjorn](https://github.com/yelof3/BjornAgain "link to my Bjorn github fork"). I'm currently unpacking the software right now, and should have this lil' viking up and running in no time. Stay tuned for updates! 
 
-From that site:
-> Pwnagotchi is an A2C-based “AI” powered by bettercap and running on a Raspberry Pi Zero W that learns from its surrounding WiFi environment in order to maximize the crackable WPA key material it captures (either through passive sniffing or by performing deauthentication and association attacks). This material is collected on disk as PCAP files containing any form of handshake supported by hashcat, including full and half WPA handshakes as well as PMKIDs.
+From the README:
+> Bjorn is a powerful tool designed to perform comprehensive network scanning, vulnerability assessment, and data ex-filtration. Its modular design and extensive configuration options allow for flexible and targeted operations. By combining different actions and orchestrating them intelligently, Bjorn can provide valuable insights into network security and help identify and mitigate potential risks.
 
-I just completed this project! I found [this video guide](https://youtu.be/gyKT_mASSuc?si=hraGutKUQ6CO1G0l "Youtube video by Talking Sasquatch for setting up a Pwnagotchi]") by Talking Sasquatch to be quite helpful. A Reddit thread also helped me realize that the Waveshare I received with a V4 decal on it was in fact a V3.
-
-After a quick adjustment on the config file to adjust the Waveshare version, I was off and running, capturing handshakes throughout the hood. I renamed mine Pawtagotchi, appropriately.
-
-# Update
-Pawtagotchi has surpassed 600 pwns. Another win for urban living. Here you can see the case I printed for my pwnagotchi, made with plant-based eco resin from Anycubic.
-
-![pawtagotchi](/images/pwnagotchi.jpg)
+![Bjorn Cyberviking](/images/bjorncyberviking.png)
