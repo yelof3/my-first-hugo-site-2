@@ -45,7 +45,7 @@ Occasionally, I'll read a book. They're mostly about modern physics, although oc
 - *Marcia Bartusiak: Black Hole*
 
 
-# 2023
+## 2023
 
 - *Joseph Menn: Cult of the Dead Cow*
 
@@ -53,12 +53,12 @@ Occasionally, I'll read a book. They're mostly about modern physics, although oc
 
 - *ed. John Brockman: Know This; Today's Most Interesting and Important Scientific Ideas, Discoveries, and Developments*
 
-# 2022
+## 2022
 - *Carlo Rovelli: Reality is not What it Seems*
 - *Sabine Hossenfelder: Lost in Math*
 - *John Lurie: The History of Bones*
 
-# 2021
+## 2021
 - *Carlo Rovelli: The Order of Time*
 - *Peter Woit: Not Even Wrong*
 - *Richard Panek: The Trouble with Gravity*
